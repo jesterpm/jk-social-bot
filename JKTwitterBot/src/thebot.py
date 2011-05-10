@@ -1,5 +1,5 @@
 '''
 Created on May 9, 2011
 
-@author: Karl, Jesse
+@author: Karl, Jesse, the bot
 '''
