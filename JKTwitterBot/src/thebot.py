@@ -54,7 +54,10 @@ if __name__ == '__main__':
                 lastid = f.readline()
         except IOError:
             lastid = ''
-
+            
+    reader = Twitter(domain='search.twitter.com')
+    reader.uriparts=()
+    
     poster = Twitter(
         auth=OAuth(
             oauth_token, oauth_token_secret, CONSUMER_KEY, CONSUMER_SECRET),
@@ -75,15 +78,46 @@ if __name__ == '__main__':
         tweet = pickle.load(f)
     with open(questions_status_update_File, 'r') as f:
         question = pickle.load(f)
+    with open(Response_File, 'r') as f:
+        response = pickle.load(f) 
+    count = 0 
+    response_count = 0 
     while True:
-        for line in range(len(tweet)):    
-            status_update(tweet[line]) # post a status update 
-            print tweet[line]
-            print 'Now sleeping... \n'
-            time.sleep(120) # set at 5min but is at 2min
-            print question[line] 
-            status_update(question[line])
-            print 'Now sleeping... \n' 
-            time.sleep(120) # set for 2min.
-            
-            
+        results = reader.search(q=username, since_id=lastid)['results']
+        for result in reversed(results):
+            if (response_count == len(response)-1):
+                response_count = 0
+            asker = result['from_user']
+            msgid = str(result['id'])
+            incoming_text = result['text']
+            print " <<< " + asker + ": " + incoming_text
+            if incoming_text.lower().find(username) != 0:
+                print '====> No response (not directed to %s)' % (username,)
+            elif (lastid != '') and (long(msgid) <= long(lastid)):
+                print '====> No response (%s < %s)' % (msgid, lastid)
+            else:
+                outgoing_text = 'RT @' + str(asker)+' '+ str(response[response_count])
+                response_count = response_count+1 
+                print '====> Resp = %s' % outgoing_text
+                try:
+                    status_update(outgoing_text)
+                except TwitterError as e:
+                    print '*** Twitter returned an error:\n***%s' % e
+                else:
+                    lastid = msgid
+                    print 'Last id replied = ', lastid
+                    with open(lastid_filename, 'w') as f:
+                        f.write(lastid)
+            time.sleep(30)         
+        if (count == len(tweet)-1):
+            count = 0
+        print count 
+        print tweet[count]
+        status_update(tweet[count]) # post a status update
+        print 'Now sleeping... \n'
+        time.sleep(10) # set at 5min but is at 2min
+        print question[count] 
+        status_update(question[count])
+        print 'Now sleeping... \n' 
+        time.sleep(10) # set for 2min.
+        count = count+1
