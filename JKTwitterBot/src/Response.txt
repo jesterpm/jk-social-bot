@@ -1,0 +1,10 @@
+(lp0
+S'Lol.'
+p1
+aS'Sweet.'
+p2
+aS'Right on.'
+p3
+aS'You said it.'
+p4
+a.

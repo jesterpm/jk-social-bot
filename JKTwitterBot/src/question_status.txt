@@ -1,0 +1,10 @@
+(lp0
+S'What is your opinion of our president?'
+p1
+aS'What is your favorite color?'
+p2
+aS'Do you like ice cream?'
+p3
+aS'What is your favorite car?'
+p4
+a.
