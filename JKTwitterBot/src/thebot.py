@@ -5,22 +5,22 @@ Modified by: Karl, Jesse
 
 from twitter.api import Twitter, TwitterError
 from twitter.oauth import OAuth, read_token_file
-
 from optparse import OptionParser
 import pickle
 import os
 import time
-
 CONSUMER_KEY='uS6hO2sV6tDKIOeVjhnFnQ'
 CONSUMER_SECRET='MEYTOS97VvlHX7K1rwHPEqVpTSqZ71HtvoK4sVuYk'
 
-DEFAULT_USERNAME = 'ziggster00'
+DEFAULT_USERNAME = 'ziggster00' "this will need to be changed"
 DEFAULT_AUTH_FILENAME = '.twitter_oauth'
 DEFAULT_LASTID_FILENAME = '.twitter_lastid'
 Response_File = 'Response.txt'
 public_Status_update_File = 'Status_update.txt'
 questions_status_update_File = 'question_status.txt'
-
+make_Friends_File = 'friends.txt'
+count = 0 
+response_count = 0 
 if __name__ == '__main__':
 
     parser = OptionParser()
@@ -64,14 +64,6 @@ if __name__ == '__main__':
         secure=True,
         api_version='1',
         domain='api.twitter.com')
-   
-    def status_update(outgoing_text):  
-        print '====> Resp =', outgoing_text
-        try:
-            poster.statuses.update(status=outgoing_text)
-        except TwitterError as e:
-            print '*** Twitter returned an error:\n***%s' % e
-    thestring = ['hello?', 'good bye']
     
     "All files need to be the same length as public_Status_update_File"
     with open(public_Status_update_File, 'r') as f:
@@ -79,9 +71,27 @@ if __name__ == '__main__':
     with open(questions_status_update_File, 'r') as f:
         question = pickle.load(f)
     with open(Response_File, 'r') as f:
-        response = pickle.load(f) 
-    count = 0 
-    response_count = 0 
+        response = pickle.load(f)
+    with open(make_Friends_File, 'r') as f:
+        friends = pickle.load(f) 
+         
+    def status_update(outgoing_text):  
+        print '====> Resp =', outgoing_text
+        try:
+            poster.statuses.update(status=outgoing_text)
+        except TwitterError as e:
+            print '*** Twitter returned an error:\n***%s' % e     
+    def follow_user(user): 
+        try:
+            poster.friendships.create(id=user) 
+        except TwitterError as e:
+            print e
+            poster.friendships.destroy(id=user)
+            poster.friendships.create(id=user)
+              
+    for friend in friends:
+        follow_user(friend)
+        
     while True:
         results = reader.search(q=username, since_id=lastid)['results']
         for result in reversed(results):
@@ -115,9 +125,9 @@ if __name__ == '__main__':
         print tweet[count]
         status_update(tweet[count]) # post a status update
         print 'Now sleeping... \n'
-        time.sleep(10) # set at 5min but is at 2min
+        time.sleep(120) # set at 5min but is at 2min
         print question[count] 
         status_update(question[count])
         print 'Now sleeping... \n' 
-        time.sleep(10) # set for 2min.
+        time.sleep(120) # set for 2min.
         count = count+1
