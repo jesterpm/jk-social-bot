@@ -90,7 +90,7 @@ if __name__ == '__main__':
             print e
             poster.friendships.destroy(id=user)
             poster.friendships.create(id=user)
-              
+          
     for friend in friends: # adds all friends from friends.txt
         follow_user(friend)
        
