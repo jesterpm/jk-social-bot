@@ -129,7 +129,7 @@ if __name__ == '__main__':
         #status_update(tweet[count]) # post a status update
         print 'Now sleeping... \n'
         time.sleep(1) # set at 5min but is at 2min
-        #print question[count] 
+        print question[count] 
         #status_update(question[count])
         print 'Now sleeping... \n' 
         time.sleep(1) # set for 2min.
@@ -154,8 +154,7 @@ if __name__ == '__main__':
         else: postnumber = count
         for follow_me in friend_list:
             if not (follow_me in following_list):
-                print 'fix this'
-                #post = follow_me + ' ' + question[postnumber]     
+                post = follow_me + ' ' + question[postnumber]     
                 #status_update(post) #May want to ask everyone questions regardless of friendship 
                 time.sleep(1)
                 postnumber = postnumber + 1
