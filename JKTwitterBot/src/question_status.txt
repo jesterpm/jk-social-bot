@@ -1,10 +1,792 @@
 (lp0
-S'What is your opinion of our president?'
+S"Open Question: Kind of weird question... help?: When I say YouTube crush I don't mean having\x85 http://goo.gl/fb/ipdfi"
 p1
-aS'What is your favorite color?'
+aS'Open Question: I am REALLY pissed off, what should I do?: My conversations on facebook\x85 http://goo.gl/fb/ZdGk3'
 p2
-aS'Do you like ice cream?'
+aS'Open Question: why is he treating me so bad we were good friends !?: please i need advice\x85 http://goo.gl/fb/77KiL'
 p3
-aS'What is your favorite car?'
+aS'Open Question: Am I a jerk? please help asap?: This girl broke up with me for a different guy\x85 http://goo.gl/fb/H7IFw'
 p4
+aS'Open Question: How hard is for you to let go?: Of love, of hate, of attachment? BQ: Have you\x85 http://goo.gl/fb/jvlWS'
+p5
+aS"Open Question: My best friend was asked out by an older guy today?: Her mom won't let her\x85 http://goo.gl/fb/z2iSz"
+p6
+aS"Open Question: need a girl's opinion?: Hey, this girl that's been giving me a whole bunch of\x85 http://goo.gl/fb/3olTf"
+p7
+aS'Open Question: I dont know why i prefer milfs than girls my age?: Why do i prefer mature\x85 http://goo.gl/fb/JAYM2'
+p8
+aS"Open Question: Only been w/ my bf of 8yrs now im thinking i want something else BUT?: I'm\x85 http://goo.gl/fb/KPaHU"
+p9
+aS'Open Question: Answer please? Question about relationships?: So I just want an opinion as if\x85 http://goo.gl/fb/2hlWc'
+p10
+aS'Open Question: Who is in the wrong here? Me or her?: Quick background: NO ONE in the family\x85 http://goo.gl/fb/ukGjB'
+p11
+aS'Open Question: Please who understands WOMEN?: what does a girl mean when she tells you "stop\x85 http://goo.gl/fb/gA9aD'
+p12
+aS'Open Question: What good things to talk to a girl about when...........?: She knows that you\x85 http://goo.gl/fb/7Rlo8'
+p13
+aS'Open Question: how do i get my bf to hold hands and hug me more?: we`ve bin dating for about\x85 http://goo.gl/fb/vO3CA'
+p14
+aS'Open Question: I am 14 and was raped ...how do I tell my parents?: I was comeing home from\x85 http://goo.gl/fb/VYrCA'
+p15
+aS'Open Question: Me and my friend like the same boy?: she always denied liking him and i told\x85 http://goo.gl/fb/jKjcm'
+p16
+aS'Open Question: how to deal with separating from my husband?!?: I am 23 years old. my husband\x85 http://goo.gl/fb/byriF'
+p17
+aS"Open Question: I'm being a jealous/overprotective boyfriend?: I've become really attached to\x85 http://goo.gl/fb/942GM"
+p18
+aS'Open Question: Please answer? Tell me what you think? (10 points)?: I promise to give 10\x85 http://goo.gl/fb/Cy8HF'
+p19
+aS"What's the deal with Jerry Seinfeld? Did you ever notice he seems to start off all of his jokes in one of two ways?"
+p20
+aS'Open Question: first kiss help please?: so basically my girlfriend wants to make out with me\x85 http://goo.gl/fb/dnEEz'
+p21
+aS'It is not enough to be busy; so are the ants. The question is: What are we busy doing?'
+p22
+aS'Wonder if Vegas oddsmakers are taking bets re: will the #rapture prognosticators be giving interviews next week?'
+p23
+aS'Weight Loss Tips Open Question: 2 quick questions about weight gain/weight loss.? http://yhoo.it/kfSWYp #weight loss #diets'
+p24
+aS'Weight Loss Tips Open Question: Mirena birth control? http://yhoo.it/kOvkR3 #weight loss #diets'
+p25
+aS'Lose Weight Diet : Open Question: 2 quick questions about weight gain/weight loss.? http://yhoo.it/ifXGU7 #lose weight #fat'
+p26
+aS'Lose Weight Diet : Open Question: is my best friend anorexic? http://yhoo.it/lrZKNW #lose weight #fat'
+p27
+aS"Weight Loss Tips Open Question: A men's health question about food? http://yhoo.it/jqcLmC #weight loss #diets"
+p28
+aS'Weight Loss Tips Open Question: is it possible for fat to migrate or something? http://yhoo.it/m8eIA2 #weight loss #diets'
+p29
+aS'Lose Weight Diet : Open Question: is it possible for fat to migrate or something? http://yhoo.it/kRaiMK #lose weight #fat'
+p30
+aS'Lose Weight Diet : Open Question: Am I eating enough to lose weight? http://yhoo.it/j5Z439 #lose weight #fat'
+p31
+aS'Weight Loss Tips Open Question: I NEED P90X HELP!!!!!? http://yhoo.it/mOeDTI #weight loss #diets'
+p32
+aS'Weight Loss Tips Open Question: Is this a healthy diet? http://yhoo.it/isE3zT #weight loss #diets'
+p33
+aS'Lose Weight Diet : Open Question: Just read, details below? http://yhoo.it/mCv4jR #lose weight #fat'
+p34
+aS'Lose Weight Diet : Open Question: Stretch marks question w/ weight loss? http://yhoo.it/mAEClx #lose weight #fat'
+p35
+aS'Weight Loss Tips Open Question: Is it normal for these changes in my diet? http://yhoo.it/iq5Jzu #weight loss #diets'
+p36
+aS"Lose Weight Diet : Open Question: What's the best thing to eat while trying to lose weight ? http://yhoo.it/k7tLr2 #lose weight #fat"
+p37
+aS'Lose Weight Diet : Open Question: Will I gain weight eating like this? http://yhoo.it/kJgBde #lose weight #fat'
+p38
+aS'Weight Loss Tips Open Question: yeast infection that NEVER goes away? http://yhoo.it/iAuZNG #weight loss #diets'
+p39
+aS'Weight Loss Tips Open Question: Will I loose tummy flab? http://yhoo.it/mLpI4O #weight loss #diets'
+p40
+aS'Lose Weight Diet : Open Question: How to live a healthy vegan lifestyle? http://yhoo.it/kaameS #lose weight #fat'
+p41
+aS"Lose Weight Diet : Open Question: How can I loose weight if I'm thinking about it way to hard? http://yhoo.it/mBC8uO #lose weight #fat"
+p42
+aS'Question: is powerplant still open?'
+p43
+aS'Open Question: Help! What kind of headache is this? http://dlvr.it/SR5pY'
+p44
+aS'Open Question: Would you consider a 32 degree curve in scoliosis to be mild to moderate? http://dlvr.it/SR5pN'
+p45
+aS'Open Question: forward head syndrome? http://dlvr.it/SR5nz'
+p46
+aS'Open Question: I have a lot of knee problems, any advise anyone? To young for a partial knee replacement? http://dlvr.it/SR5nL'
+p47
+aS'Open Question: Is there Codeine found in Oxycodone. Failed Drug Test.? http://dlvr.it/SR5mx'
+p48
+aS'Open Question: What to do when your back hurts? http://dlvr.it/SR5mL'
+p49
+aS'Open Question: How do I cure my foot pain? http://dlvr.it/SR5lk'
+p50
+aS'Open Question: foot pain and really hurts!!? http://dlvr.it/SR0rV'
+p51
+aS"Open Question: Please answer ASAP it's life or death? http://dlvr.it/SR0rR"
+p52
+aS'Open Question: Pulled muscles in your back? http://dlvr.it/SR0rM'
+p53
+aS'Open Question: is anyone out there can help me..i have been suffering from some pain in my stomach? http://dlvr.it/SR0rH'
+p54
+aS'Open Question: Why do my legs hurts so much?!? http://dlvr.it/SR0rC'
+p55
+aS'Open Question: This is getting way out of hand. What should I do? http://dlvr.it/SR0r6'
+p56
+aS'Open Question: Any good Hangover remedies? http://dlvr.it/SR0r4'
+p57
+aS'Open Question: Hot Tingly sensation in arms? http://dlvr.it/SR0r1'
+p58
+aS'Open Question: Can someone help with pain? http://dlvr.it/SR0qv'
+p59
+aS'Looking For The Best Wrinkle Cream? http://dlvr.it/SQy6d'
+p60
+aS'Open Question: Hurt leg durring baseball practice? http://dlvr.it/SQvsL'
+p61
+aS'Open Question: swollen and painful lymph nodes on left side of neck. back of throat is red on left side(no spots)? http://dlvr.it/SQvs1'
+p62
+aS'Open Question: how can i tell if i have cramps or im constipated (weird, i know. but i think im gonna die)? http://dlvr.it/SQvrW'
+p63
+aS'#question Do ihave a attitude problem?  Followers ineed yur opinions? ? ...'
+p64
+aS'Any plans for tomorrow? Feel like going on a date!'
+p65
+aS'The question is.. iPhone or iPad app?'
+p66
+aS'Anyone suggest any apps for the iPad 2?'
+p67
+aS'JOAN JETT coming to Thunder Valley?! I. AM. SOOOOOOO. GOING!!!!!!!!! No question about it.'
+p68
+aS'Why must my best friend like the biggest douche bag in the school?! Shiiiiiiiiiiiiiiiiiiiiiiiit.'
+p69
+aS'"Did you just have sex with her and then give her a balloon?"'
+p70
+aS"It's a thunder storm here today, hmmmm... I wonder if vampires are playing baseball?? (;"
+p71
+aS"What's the whole point of lying ? #JustTellTheTruth We may get hurt by the truth but it's better than being lied to ."
+p72
+aS'I wonder if I ever cross your mind...? Hmmm...'
+p73
+aS'To make my ideas a reality or not, that is the question?! - I\x92ve got some crazy, wacky, fun ideas up in this... http://tumblr.com/x1l2m0yyfm'
+p74
+aS'To make my ideas a reality or not, that is the question?! - I\x92ve got some crazy, wacky, fun ideas up in this... http://tumblr.com/x1l2m0xhf9'
+p75
+aS'cathrinemaeee asked: Did you get my bow! How are you!? http://tumblr.com/x1l2m0uaw9'
+p76
+aS'gypsystarchild asked: What\x92s the link to your portfolio on model mayhem? :) http://tumblr.com/x1l2m0ty4q'
+p77
+aS'Another goorin hat company?!'
+p78
+aS'What kinds of stuff do you enjoy, that may land you at the dentist? Check it out &gt;&gt; http://lx.im/1cJHj  - ad'
+p79
+aS"The protest is basically about Mexican high school students who are don't have their 'papers?' but worked really hard"
+p80
+aS'Parenting question of the day: Are you ever accused of "spoiling" your child? If so, how do you defend yourself?'
+p81
+aS'I find it funny that Leila always sleeps longer on the mornings that we need to be somewhere.  Why cant she do that on my off days?'
+p82
+aS'Open Question: No sleep - nauseous. What can I do?: Last night when I went in bed to sleep, I had a lot on my m... http://yhoo.it/ma34Kb'
+p83
+aS'Open Question: What part of your tongue do piercers pierce?: is it that spot thats in the middle of your tongue... http://yhoo.it/ilVhns'
+p84
+aS'Open Question: What could I have with a queasy stomach, bloating, back pain, and other things?: I been experien... http://yhoo.it/it2x2Z'
+p85
+aS'Open Question: Why have I never been made fun of my height or even mentioned, but?: other people my height seem... http://yhoo.it/irbe6D'
+p86
+aS"Open Question: Weight Loss Plan for active teen?: Over the summer, I hope to lose 25 pounds. I am 5'1 and 135 p... http://yhoo.it/k8EiwG"
+p87
+aS'Open Question: Are these some signs of my period?: I like keeping track of my period so I can plan around it bu... http://yhoo.it/m2VtUZ'
+p88
+aS'Open Question: when do you eat your girl out?: I like to eat and plz my partner. My last girlfriend i could eat... http://yhoo.it/lAOE24'
+p89
+aS"Open Question: How much weight do you think I should lose to be a good weight?: I'm nearly 14, a girl, 5'6 and ... http://yhoo.it/mDcdXh"
+p90
+aS'Open Question: chances of inheriting schizophrenia from my father?: I know I should not be asking people on YA ... http://yhoo.it/mJL5ZP'
+p91
+aS'Open Question: what are effects of this medication combo?: welbutrin,dilaudid,flexeril,klonopin,ambien,xytal,an... http://yhoo.it/luPBBC'
+p92
+aS"Open Question: My son needs to lose weight?: ok so my son is 8 years old is 4'2 and just tipped the scales at 2... http://yhoo.it/ljVxG7"
+p93
+aS"Open Question: How do I get over my body issues?: I am a 19 year old girl my height is about 5'5 or 5'6, I've n... http://yhoo.it/kMrttP"
+p94
+aS"Open Question: could someone please diagnose my problem?: well apparently when everybody get's up too fast they... http://yhoo.it/k1JUJq"
+p95
+aS"Open Question: Can anyone who has had experience with using drugs help out with story research?: I'm not here t... http://yhoo.it/mdHDrp"
+p96
+aS'Open Question: How good is the magic flight launch box?: So I want a portable vaporizer... Is the magc flight l... http://yhoo.it/mlkGt6'
+p97
+aS'Open Question: I have a blocked ear. Help?: I cleaned my ears with a cotton bud, and now my left ear is complet... http://yhoo.it/mBICjF'
+p98
+aS'Open Question: My husband is seeing spots in his left eye.?: What would this be?  He says it is almost like a z... http://yhoo.it/iTrTu1'
+p99
+aS"Open Question: Reoccurring rash on wrist?: For the past few months, I've been getting a reoccurring rash on my ... http://yhoo.it/kMxTZp"
+p100
+aS'[ Xbox ] Open Question : Fallout New Vegas not loading!?!? http://ping.fm/Uro2w?!?'
+p101
+aS'[ Politics ] Open Question : Poll:canada or mexico? http://ping.fm/ty7ss?'
+p102
+aS'[ Other - Asia Pacific ] Open Question : What is your impression of Singapore? http://ping.fm/shFwz?'
+p103
+aS'[ Cameras ] Open Question : Good cheap high quality camera? http://ping.fm/zL6dS?'
+p104
+aS'[ Pain & Pain Management ] Open Question : Hot Tingly sensation in arms? http://ping.fm/SEkJi?'
+p105
+aS'[ Polls & Surveys ] Open Question : Do you think the world is going to end tomorrow? http://ping.fm/T2Tnt?'
+p106
+aS'[ Cell Phones & Plans ] Open Question : How does TextFree actually work? http://ping.fm/2Ynfg?'
+p107
+aS'[ Laptops & Notebooks ] Open Question : i pressed delete iphone now its only apple logo and doesnt turn on? http://ping.fm/NKfa7?'
+p108
+aS'[ Comics & Animation ] Open Question : Why are anime guy characters so slim? http://ping.fm/hzuPf?'
+p109
+aS'[ Desktops ] Open Question : Computer fails to boot?: Hey all, so heres what happened. I overclocked my video ca... http://bit.ly/jWB54m'
+p110
+aS'[ Credit ] Open Question : Did I ruin my credit? http://ping.fm/sCHYz?'
+p111
+aS'[ Football (American) ] Open Question : who has the most championships in the NFL? http://ping.fm/9ZA5H(American)_Open_Question_:_who_has_th'
+p112
+aS'[ Philosophy ] Open Question : Why does everybody keep saying the world is going to end tomorrow? http://ping.fm/1vpLB?'
+p113
+aS'[ Singing ] Open Question : What do you think of my music? http://ping.fm/SiKPE?'
+p114
+aS'[ Rap and Hip-Hop ] Open Question : In your opinion, who is the best MC of all time? http://ping.fm/cQfQQ?'
+p115
+aS'[ Cooking & Recipes ] Open Question : If you were edible what would you be made of? http://ping.fm/DeIjL?'
+p116
+aS'RT Open Question: eco plastic cups? [10 points]?  http://bit.ly/dRo9fE'
+p117
+aS"RT #Friday's Did You Know? #Build with #Propane! http://t.co/3z9wkjG #green #architecture #green #living #architects"
+p118
+aS'RT Living Green Tips | When \x93living Green\x94 Is It Environmentally Better To Practice What Is Most Efficient For You Or\x85? http://bit.ly/mMWbwr'
+p119
+aS'Open Question: My dog is showing the following symptoms? - 387th ...: He is a golden retriever, 10 years old. He...  http://bit.ly/g2getu'
+p120
+aS'how do I stay so sleepy all the time? new hairs did done do'
+p121
+aS'Does step kids break up marriages? http://sodahead.com/poll/1814905/'
+p122
+aS'Is It True Women Are Usually More Religious Than Men? http://sodahead.com/poll/1814903/'
+p123
+aS'Who was your favorite Buffy the Vampire Slayer character? http://sodahead.com/poll/1814859/'
+p124
+aS'Are you on Sodahead tonight? http://sodahead.com/poll/1814855/'
+p125
+aS'Do you believe the world is going to end on May 21? http://sodahead.com/poll/1814841/'
+p126
+aS'Judgement Day Torah: Will God Will Ever Wreak Misery Upon You? http://sodahead.com/poll/1814189/'
+p127
+aS'What Does Your Name Mean? http://sodahead.com/poll/1813595/'
+p128
+aS'Have you ever considered deleting your Facebook page? http://sodahead.com/poll/1814787/'
+p129
+aS'Who yall got me mistaken for?'
+p130
+aS'"Do u know who cleaned my car?" ..."Ion know, it wasnt me. I aint take nothing" lmfao'
+p131
+aS'Open Question: What is the documents should I have to start computer service firm. ? http://p.ost.im/p/ct2Ud'
+p132
+aS'Open Question: I want to know that does beer(thunderbolt) contains any gas?if yes then does it effect on low hearing http://p.ost.im/p/c9YQL'
+p133
+aS'Open Question: If pillion rider closes his eyes will it effect driving? http://p.ost.im/p/cPAWs'
+p134
+aS'Open Question: how i release a parcel from custom inspection? http://p.ost.im/p/ctqPY'
+p135
+aS'Open Question: I want to know that does beer(thunderbolt) contains any gas?if yes then does it effect on low hearing http://p.ost.im/p/cpA3q'
+p136
+aS'Open Question: Is there parking space available at Shimla for car and what are the charges ? http://p.ost.im/p/c4Dgx'
+p137
+aS'Open Question: Let a={3,5,9,10} b={5,10,15} c={1,2,3,4,5,6,7,8,9,10,11,12,13,14,15} is b a subset of c? http://p.ost.im/p/cqnEN'
+p138
+aS'Open Question: I will go to fight civil services. is it right? http://p.ost.im/p/cydRk'
+p139
+aS'Open Question: I want to know that does beer(thunderbolt) contains any gas?if yes then does it effect on low hearing http://p.ost.im/p/cQunU'
+p140
+aS'Open Question: i Have optra magnum sunroof please help.....? http://p.ost.im/p/cnQeN'
+p141
+aS'Open Question: im 7 months pregnant woman every day i feel very hot n sweating a lot is this normal? http://p.ost.im/p/cbvT9'
+p142
+aS'Open Question: Will I get penalized by Google if I rewrite all my content? http://p.ost.im/p/cnRXw'
+p143
+aS'Open Question: I want to know that does beer(thunderbolt) contains any gas?if yes then does it effect on low hearing http://p.ost.im/p/cBct5'
+p144
+aS'Open Question: how i cen become agant indian railway ticket booking? http://p.ost.im/p/csWxF'
+p145
+aS'#canada [ Politics ] Open Question : Poll:canada or mexico? http://ping.fm/ty7ss?: [ Politics... http://bit.ly/jT3Sw9 #election  #elxn41'
+p146
+aS'#canada #canada Have I told you lately how awesome politics in Canada is these days? - Among ... http://bit.ly/ifnprk #election  #elxn41'
+p147
+aS'#canada Have I told you lately how awesome politics in Canada is these days? - Among them wer... http://bit.ly/jmIgmW #election  #elxn41'
+p148
+aS"Open Question: Did Elvis have any albums/movies that weren't released 'til after his death?: The ... http://yhoo.it/iq51uB Yahoo Answers"
+p149
+aS'Open Question: Why is Rebecca Black so stupid?: I mean, in the song, there is only one seat left ... http://yhoo.it/iqURwu Yahoo Answers'
+p150
+aS'Open Question: Do you think how about the actress dresses on Cannes Red Carpet?: Such as Angelina... http://yhoo.it/jymAP0 Yahoo Answers'
+p151
+aS'Open Question: Why is Johnny Depp so awesome ?....?: was it his childhood? acting teacher? film e... http://yhoo.it/lvFZ2X Yahoo Answers'
+p152
+aS'Open Question: Am I the only one who thinks that Dr. OZ secretly likes black women?: I am asking ... http://yhoo.it/lyQKzp Yahoo Answers'
+p153
+aS'Open Question: How close are these photos to Zooey Deschanel?: People tell me I look like Zooey D... http://yhoo.it/lFokrD Yahoo Answers'
+p154
+aS'Open Question: Did Beyonce Bleach Her Skin?: I just saw her new video run the world and to me it ... http://yhoo.it/lTXkSY Yahoo Answers'
+p155
+aS'Open Question: Who do I resemble? what celebrity..?: what celeb?,\noh and how old do i look like t... http://yhoo.it/jLre2i Yahoo Answers'
+p156
+aS'Open Question: Is Benji Madden Single?: Is Benji Madden Single as of right now? http://yhoo.it/mdn6De Yahoo Answers'
+p157
+aS'Are you ready for something realy hot tonight? Come to see photos & more info http://bit.ly/bFQniF'
+p158
+aS'Open Question: How to get rid of Cold feet?: Like i wanna become a singer, but i am really nervou... http://yhoo.it/lXrqbA Yahoo Answers'
+p159
+aS'Open Question: i just died?!?!! omgomgomgomgogmogmgogm?: i just ate a brownie.\n\ni...i think im de... http://yhoo.it/mmVdlp Yahoo Answers'
+p160
+aS'Open Question: When is Miley Cyrus going on tour 2011?: Today is may 20, 2011. I want to know if ... http://yhoo.it/kbH1Ed Yahoo Answers'
+p161
+aS'Open Question: What female celebrities do you think can pull off the sexy short hair look?: By sh... http://yhoo.it/k9pdGC Yahoo Answers'
+p162
+aS'Open Question: Why is Kim Kardashian famous?: Besides her "looks", she really has no talent..\nsam... http://yhoo.it/juxKtP Yahoo Answers'
+p163
+aS"Open Question: Do I look like Ryan Gosling?: I've been told this more than once and I think I kin... http://yhoo.it/leaBtT Yahoo Answers"
+p164
+aS'Open Question: meeting lady gaga? good morning america?: I was lucky enough to get tickets to see... http://yhoo.it/ktZgtl Yahoo Answers'
+p165
+aS'Open Question: justin bieber 2011 phone?: i really really really WANT justin biebers phone number... http://yhoo.it/lfoarG Yahoo Answers'
+p166
+aS'Open Question: Why is psychology important to u.s. history? http://goo.gl/fb/oHlYX #health #psychology'
+p167
+aS'Open Question: Why is Psychology important to U.S. History? http://goo.gl/fb/QMtaI #health #psychology'
+p168
+aS'Open Question: Job in psychology field? http://goo.gl/fb/8j3YY #health #psychology'
+p169
+aS'Open Question: psychology, matters!!? http://goo.gl/fb/pdLAK #health #psychology'
+p170
+aS'Open Question: Vaguely titled questions get more answers? http://goo.gl/fb/kiBUC #health #psychology'
+p171
+aS'Open Question: What are the major points of Theories in Psychology? http://goo.gl/fb/J5zRr #health #psychology'
+p172
+aS'Open Question: Name this theory/ psychologist? http://goo.gl/fb/OvUJi #health #psychology'
+p173
+aS'Open Question: Graduate Program in Psychology? http://goo.gl/fb/dI6qq #health #psychology'
+p174
+aS'Open Question: How can I prepare myself for junior year? http://goo.gl/fb/zL0Zw #health #psychology'
+p175
+aS'Open Question: psychology questions help? http://goo.gl/fb/vBEN2 #health #psychology'
+p176
+aS'Open Question: psychology motivation & emotion? http://goo.gl/fb/Y0VsR #health #psychology'
+p177
+aS'Open Question: What is a psychology intro. to research class like? http://goo.gl/fb/I8WCy #health #psychology'
+p178
+aS'Open Question: What is a psychology intro. to research class like? http://goo.gl/fb/PD30C #health #psychology'
+p179
+aS'Open Question: People and Understanding Law? http://goo.gl/fb/lblKn #health #psychology'
+p180
+aS'Open Question: Why do people make fun of orphans? http://goo.gl/fb/fWBTb #health #psychology'
+p181
+aS'Open Question: PSychology AS level revision? http://goo.gl/fb/QWp81 #health #psychology'
+p182
+aS'Resolved Q&A here! Open Question: Was the Mikkel Kessler that Ward beat still in his prime? http://adf.ly/1YysU'
+p183
+aS'Resolved Q&A Open Question: what will your final meal be tonight ? http://adf.ly/1Yydj'
+p184
+aS'News and Events Open Question: Will there be massive suicide tomorrow? http://adf.ly/1YyBc'
+p185
+aS'News and Events Open Question: Wahhh:( are we gunna die? http://adf.ly/1YyBs'
+p186
+aS'Resolved Q&A Open Question: Will there be massive suicide tomorrow? http://adf.ly/1YyBc'
+p187
+aS'Resolved Q&A Open Question: Does Biblical Phophesy allow for anyone else except Israel to control all of Jeresuleum? http://adf.ly/1YxuW'
+p188
+aS'Resolved Q&A Open Question: How are we going to die on May 21st, 2011? http://adf.ly/1YxJC'
+p189
+aS'Sports Q&A Open Question: What are some complications with hiking the appalachiam trail? http://adf.ly/1YwVs'
+p190
+aS"Maybe this is a stupid question,but how come the gov't can't do more about animal cruelty?! I'm getting so tired of them doing nothing!"
+p191
+aS'Can somebody answer this, If a turtle doesnt have a shell, is it homeless or naked?'
+p192
+aS'Open Question: What should I call my two guinea pigs?: Further to the question I asked yesterday, I have just b... http://yhoo.it/l1FpAK'
+p193
+aS'Open Question: Getting a guinea pig on my b-day...?: Ok, so my birthday is in November, and it will be my golde... http://yhoo.it/lb0WFY'
+p194
+aS"Open Question: My guinea pig's teeth fell out?: They fell out naturally, the top two, one at a time. She is sti... http://yhoo.it/jfGcJ3"
+p195
+aS'Open Question: Are Guinea pigs really THAT disgusting? And where is the best place to get them?: My mom keeps t... http://yhoo.it/mMHY0b'
+p196
+aS'Open Question: what are some ways to convince your parents to give you a pet for ur bday?: Okay so i RLLY want ... http://yhoo.it/mNtuzb'
+p197
+aS"Open Question: Fun Animal Survey :D?: ok so some of you may not find it fun....whatever, don't do it then :)\n\nD... http://yhoo.it/l9Tfds"
+p198
+aS"Open Question: Guinea pigs or hamsters?: Hi!\nI'm thinking about getting a Guinea pig or hamster but I dont know... http://yhoo.it/lb00ch"
+p199
+aS'Open Question: Do my guinea pigs have Mites?: About three months ago, I adopted 2 guinea pigs from a nearby pet... http://yhoo.it/mpWtvH'
+p200
+aS'Open Question: What kind of bedding to use for Guinea pig, and that is not expensive? Do you use leash for them?:  http://yhoo.it/iV8qr2'
+p201
+aS"Open Question: are guinea pigs or hamsters better?: I'm 12 and my mom is letting me get a pet (i am experienced... http://yhoo.it/lkad2n"
+p202
+aS"Open Question: Should I introduce my guinea pig to another?: I've got one boar guinea pig, it is still young. S... http://yhoo.it/kte1BB"
+p203
+aS'Open Question: I NEED AN ANSWER ASAP! GUINEA PIG QUESTION!?: ok well im thinking about getting a guinea pig tom... http://yhoo.it/k2yomu'
+p204
+aS'Open Question: My chinchilla poops A LOT, normal ?: my guinea pigs never used to go as much as my chinchilla.. ... http://yhoo.it/mxSLU1'
+p205
+aS'Open Question: is it bad if my guinea pig ate a little bit of timothy mixed with alfalfa pellets?: shes 10 months old http://yhoo.it/ilu4Nm'
+p206
+aS'Open Question: My guinea pig had diharrea?: My guinea pig had diharrea earlier today and here bum was quite dir... http://yhoo.it/kUQadM'
+p207
+aS'Open Question: Why does my guinea pig shit a lot?: My other guinea pig never did this.\nMy old guinea pig wouldn... http://yhoo.it/iftuyH'
+p208
+aS"Open Question: guinea pig care tips?: okay well i'm 12 and i want a guinea pig.I want to know do guinea pigs NE... http://yhoo.it/jvzBuV"
+p209
+aS'Open Question: I would like to get a guinea pig and need a supply list + pricing!?:  http://yhoo.it/iyXxvT'
+p210
+aS'Open Question: I love my animals, but struggle to keep up with them?: Hello.\n\nI have 2 guinea pigs. \nA rabbit.\n... http://yhoo.it/iYsg1r'
+p211
+aS'Open Question: Should I get a male or female guinea pig?: What should I name him/her?\noooo and how big is the c... http://yhoo.it/lxAlep'
+p212
+aS'[ Other - Yahoo! Products ] Open Question : Can you reccomend some good porn story sites for mobil phones? http://ping.fm/KiNAf?'
+p213
+aS'[ Maintenance & Repairs ] Open Question : What does a "traction off" light mean in my car? http://ping.fm/V8BHM"traction_off"_light_mean_in_'
+p214
+aS'[ Singles & Dating ] Open Question : in all honesty do you find it unattractive? http://ping.fm/9RgRH?'
+p215
+aS'[ Basketball ] Open Question : what channel do the nc state basketball games come on? http://ping.fm/gBnac?'
+p216
+aS"Ever wonder who's been searching for you? Use MyLife to find out instantly. I hope Harry doesn't try this... http://lx.im/1cJwl  - ad"
+p217
+aS"#iftheworldendsonsaturday only the good go to 'heaven.' You know what that means? Party! Friday! Friday! Gotta get down on Friday!"
+p218
+aS"Need jewelry for prom... or a horcrux? Check out Bosworth's JewelMint designs & get $15 off right now, use MINT5. http://lx.im/1cI91  - ad"
+p219
+aS'People want to retire Ronald McDonald? Further proof that society is against redheads. Are you paying attention, Weasley family?'
+p220
+aS'Guess what in doing??? Hahahaha'
+p221
+aS'It is for me right???? Lol'
+p222
+aS'You know what they say about a guy with big feet? \nIdk. What do they say? Lol'
+p223
+aS'Open Question: Trustee Liquidated Assets?  http://bit.ly/h5HGtD'
+p224
+aS'Open Question: Why does Amscot need my checkbook for a cash advance?  http://bit.ly/h5HGtD'
+p225
+aS'Open Question: How can I earn money as a teen?  http://bit.ly/h5HGtD'
+p226
+aS'Open Question: Cost for setting up a Trust for a minor?  http://bit.ly/h5HGtD'
+p227
+aS'Open Question: what will happen to stock after the $600 billion end on June 1?  http://bit.ly/h5HGtD'
+p228
+aS'Open Question: $150 in saving 6% annual rate how much simple interest in 6 years?  http://bit.ly/h5HGtD'
+p229
+aS'Open Question: How to count money fast?  http://bit.ly/h5HGtD'
+p230
+aS'Open Question: Is there such a thing as a bank account with no overdrafts?  http://bit.ly/h5HGtD'
+p231
+aS"Open Question: I'm thinking of getting a loan?  http://bit.ly/h5HGtD"
+p232
+aS'Open Question: Need hardship letter advice!!!?  http://bit.ly/h5HGtD'
+p233
+aS'Will This Doom Your Retirement? \n    (The Motley Fool)  http://bit.ly/bGcDhe'
+p234
+aS"Open Question: I'm a little worried about my future?  http://bit.ly/h5HGtD"
+p235
+aS'The missus is having a Dolly Parton party tonight. Ever see a picture of young Dolly Parton? I mean, _really_ http://cl.ly/6xRT'
+p236
+aS"[ Cycling ] Open Question : schwinn continental fork removal?: i recently bought an old schwinn continental road bike and i'm trying ..."
+p237
+aS'[ Comics & Animation ] Open Question : Could i have suggestions for anime,please?: Genres i like are\nHorror\nromance\ncomedy\nVampire\n  ...'
+p238
+aS"[ Skin Conditions ] Open Question : How could I treat my sun rash?: I have a bad sun rash, and I have had this for two weeks. It's as..."
+p239
+aS'[ Psychology ] Open Question : Everytime I think of myself, I think of my work, how can I stop doing this?: I really tought at one po...'
+p240
+aS"[ Singles & Dating ] Open Question : I got this girls number. What's the next step?: I finally got it. I'm pretty sure we won't be ab..."
+p241
+aS'[ Other - Society & Culture ] Open Question : Why do some people work so hard with little payoff?:'
+p242
+aS'[ Fashion & Accessories ] Open Question : Can I sell by Rayban sunglasses?: So i own one rayban that looks like this http://www.googl...'
+p243
+aS'[ Theater & Acting ] Open Question : Are proleptic irony and foreshadowing the same thing?:'
+p244
+aS'[ Polls & Surveys ] Open Question : I have my stats exam in 2.5 hours - Should I head off to the bus-stop now?: It takes me on avaera...'
+p245
+aS'[ Polls & Surveys ] Open Question : What could i do to make you moan?:'
+p246
+aS"[ Law Enforcement & Police ] Open Question : Officer O'Brien Spokane Washington tried to rape me then did rape me?: First he tried to..."
+p247
+aS'[ Amusement Parks ] Open Question : Columbus zoo and water park admission at gate?: Can you buy admission tickets at the gate of the ...'
+p248
+aS"[ Dogs ] Open Question : Why does my dog growl at me?: It's not because I'm taking his bone or food or bothering him. I'm petting him..."
+p249
+aS"[ Lesbian, Gay, Bisexual, and Transgendered ] Open Question : Are there gay hotspots that I may not know about while I'm there?: It's..."
+p250
+aS'[ Words & Wordplay ] Open Question : Is it wrong to call off your last day of work?: I got switched from 3rd shift to 1st shift. Woul...'
+p251
+aS"[ Baby Names ] Open Question : What are names for children born in October and November?: Wondering because i'm due in october or nov..."
+p252
+aS"[ Diet & Fitness ] Open Question : How do I know I haven't gained weight without a scale?: So currently I'm working on maintaining a ..."
+p253
+aS"[ Hair ] Open Question : I Need a New look ???!!?: I'm a 15 year old puerto rican boy with thick black hair. I spike it but I have do..."
+p254
+aS'[ Sepeda Motor ] Jawab Pertanyaan : Gan, tanya harga aksesoris motor..? http://bit.ly/l0hlhp #YahooAnswer'
+p255
+aS'[ Gem Online & Video ] Jawab Pertanyaan : tolong dong dibantu . bintang dikasi ntar? http://bit.ly/j2hjpc #YahooAnswer'
+p256
+aS'[ Cycling ] Open Question : schwinn continental fork removal? http://yhoo.it/kh6mjq #YahooAnswer'
+p257
+aS'[ Teknologi ] Jawab Pertanyaan : apa anda di lahirkan di bojonegoro? http://bit.ly/iVYFBt #YahooAnswer'
+p258
+aS'[ Maintenance & Repairs ] Open Question : Idle problem high Rpm.? http://yhoo.it/lFPxch #YahooAnswer'
+p259
+aS'[ Agama & Kepercayaan ] Jawab Pertanyaan : Apa Penyebab User AK Emosi? http://bit.ly/j8tiFg #YahooAnswer'
+p260
+aS'[ Comics & Animation ] Open Question : Could i have suggestions for anime,please? http://yhoo.it/kM2V8t #YahooAnswer'
+p261
+aS'[ Lain-lain - Ilmu Sosial ] Jawab Pertanyaan : Tolong bantu saya, saya ingin menyusun rencana Masa depan? http://bit.ly/mvHgTS #YahooAnswer'
+p262
+aS"[ Philosophy ] Open Question : Why can't some people make sense of the world around them? http://yhoo.it/llvUC0 #YahooAnswer"
+p263
+aS'[ Selular & Operator ] Jawab Pertanyaan : Tentang opera mini. Ada yg mau bantu? http://bit.ly/kewToe #YahooAnswer'
+p264
+aS'[ Skin Conditions ] Open Question : How could I treat my sun rash? http://yhoo.it/m36321 #YahooAnswer'
+p265
+aS'[ Other - Games & Recreation ] Jawab Pertanyaan : Ada yang tau ga cara main game gba di hp java? http://bit.ly/mvFCXK #YahooAnswer'
+p266
+aS'[ Other - Beauty & Style ] Open Question : is this guy ugly or not? http://yhoo.it/iwfj0E #YahooAnswer'
+p267
+aS'[ Kesehatan Laki-laki ] Jawab Pertanyaan : Ga bisa berhenti onani. Help me? http://bit.ly/iQgxXC #YahooAnswer'
+p268
+aS"[ Dogs ] Open Question : Why don't my dogs renal values match her demeanor? http://yhoo.it/jyneMq #YahooAnswer"
+p269
+aS"[ Singles & Dating ] Open Question : I got this girls number. What's the next step? http://yhoo.it/jAAEee #YahooAnswer"
+p270
+aS'Planning a trip this summer with your pup? Here are some of the most dog-friendly cities in the U.S. http://bit.ly/lQ0l1D'
+p271
+aS"suntanning with my dog, at 8 O'clock at night. How is this possible, you ask? Its not. :)"
+p272
+aS'Open Question: what affects climate change have on the great barrier reef?: and what\x85 http://goo.gl/fb/x2CFn'
+p273
+aS'Open Question: which reporter at the vancouver sun reports on global warming?: is there a\x85 http://goo.gl/fb/2BJml'
+p274
+aS'Open Question: World ending tomorrow?: Is the world really going to end tomorrow? i am from\x85 http://goo.gl/fb/GtaJ0'
+p275
+aS'Open Question: 21st of may 2011 judgement day?: its the 21st of may an nothing has happened\x85 http://goo.gl/fb/xatYq'
+p276
+aS'Open Question: Tomorrow the end of the world?: Do you believe it? Cause I don\x92t. Comment and\x85 http://goo.gl/fb/Z2A2p'
+p277
+aS'Open Question: is the end of the world tonight!!?: im so scared! and i dont know what to\x85 http://goo.gl/fb/QpjTb'
+p278
+aS'Open Question: Is climate denial a religion?: It appears that most religions arise from the\x85 http://goo.gl/fb/Dyz1t'
+p279
+aS'Resolved Question: What up with tomorrow (may 21 2011)?: People have been saying tomorrow\x85 http://goo.gl/fb/lk2EY'
+p280
+aS'Open Question: What up with tomorrow (may 21 2011)?: People have been saying tomorrow will be\x85 http://goo.gl/fb/pfNW3'
+p281
+aS'Why Is the EPA Spending Thousands of Dollars To Help Green Radicals Break the Law?: America\x85 http://goo.gl/fb/nSVVJ'
+p282
+aS'Global #Warming and Asthma: Consensus?: The latest alarmist talking point is that \x93global\x85 http://goo.gl/fb/K2ggq'
+p283
+aS'Exploding Watermelons: \x91Oh no, not another ruddy energy revolution?\x92: \x93Well I suppose there\x92s\x85 http://goo.gl/fb/4Geed'
+p284
+aS'Open Question: is global warming bad as they say?: is global warming bad Tags: open question\x85 http://goo.gl/fb/faM4i'
+p285
+aS'Open Question: How frequently change the content ? http://goo.gl/fb/2GphH #globalwarmingquestions'
+p286
+aS'Open Question: ShoulD I loan money to my freind?  http://bit.ly/h5HGtD'
+p287
+aS"Please answer this, Open Question: Does anyone remember Pogs back in the '90s? http://adf.ly/1Yz7g"
+p288
+aS'Please answer this, Open Question: poll: will this make you laugh? http://adf.ly/1Yz80'
+p289
+aS"Just Resolved Q&A!  Open Question: Does anyone remember Pogs back in the '90s? http://adf.ly/1Yz7g"
+p290
+aS'Just Resolved Q&A!  Open Question: Where can I find the hottest songs they play on the radio in 1994? http://adf.ly/1Yydv'
+p291
+aS'Just Resolved Q&A!  Open Question: how do you put downloaded songs on your windows media player? http://adf.ly/1YyIo'
+p292
+aS'Just Resolved Q&A!  Open Question: Tego Calderon tradicional a lo bravo instrumentals name? http://adf.ly/1YxEL'
+p293
+aS'Just Resolved Q&A!  Open Question: how many sleepless nights have you spent after watching "two girls one cup"? http://adf.ly/1YwVl'
+p294
+aS'Prog-Rock Doc Romantic Warriors Gets (What Else?) Obscure http://adf.ly/1Yw6Y'
+p295
+aS"This is really cool! Rapture Prediction to Devastate Christians' Faith? http://adf.ly/1YvsQ"
+p296
+aS'Just Resolved Q&A!  Open Question: is it legal to get into a 15 if your parent buys the ticket or a 15+? http://adf.ly/1YvsH'
+p297
+aS'Just Resolved Q&A!  Open Question: Ok so, should I have a baked potato, or an apple? http://adf.ly/1YvUb'
+p298
+aS'Open Question: Which laptop would be better?: ...laptops. I want a entertainment laptop for gaming, movies, and... http://yhoo.it/mQEbfO'
+p299
+aS'Open Question: How do I make my Xbox Live less LAGGY?: ...with my laptop and i have to keep my laptop on to run... http://yhoo.it/mKbmzm'
+p300
+aS'Open Question: So I am going to buy a new gaming laptop I want to know whats the best one out on the market?: I... http://yhoo.it/m24Kui'
+p301
+aS'Open Question: Is this a good laptop for school?: ..., use internet, play simple games, and do homework. Will t... http://yhoo.it/kPmyNq'
+p302
+aS"Open Question: Which laptop CPU should i get?: ... and I don't do insane gaming. I am customizing a HP Envy lap... http://yhoo.it/iP9U9H"
+p303
+aS'Open Question: Is 800x600 resolution being phased out?: ...just got (end of last year) anew laptop with a GMA 4... http://yhoo.it/laegYS'
+p304
+aS'Open Question: Can someone look at the alienware m18x hard drive options and tell me which one i should get ?: ... http://yhoo.it/mBjYJ3'
+p305
+aS'Open Question: Game Sound not coming through headphones?: ...can hear me fine but the sound from my Laptop and ... http://yhoo.it/l7cPEU'
+p306
+aS'Open Question: Wifi constantly stops working?: ... for the wifi to work properly on my laptop. My brother plays... http://yhoo.it/mtYaBd'
+p307
+aS'Open Question: is it possible to change the keyboard on a laptop?: I think I found a really good laptop for gam... http://yhoo.it/jp3MuP'
+p308
+aS"Open Question: I need laptop suggestions?: ... in regard to my gaming choices because my laptop can't play anyt... http://yhoo.it/ko4M1H"
+p309
+aS'Open Question: Which laptop is better for gaming/college?: ...Video [W150HNQ] [Free Game Download] - Total War.... http://yhoo.it/kZY6fX'
+p310
+aS'Open Question: What laptop is right for me?: It will be used for internet surfing and playing sims and tycoon games. http://yhoo.it/lef884'
+p311
+aS'Open Question: mafia wars in firefox, why are all items in a column on the left side?: ...google and I.E. on my... http://yhoo.it/izjv40'
+p312
+aS'Open Question: what kind of games can I play on a lenovo x100e netbook laptop?: Could I play actual games like ... http://yhoo.it/jGBxvX'
+p313
+aS'Open Question: Anyone Want To Swap Xbox 360 250gb and more (all listed underneath) for a decent gaming laptop ?... http://yhoo.it/j6rSFT'
+p314
+aS'Open Question: My computer is having issues?: ...it ( like my pictures, all the games, emails, etc. ) because I... http://yhoo.it/khvhuI'
+p315
+aS'Open Question: Can my laptop run all the newest games shogun 2 crysis on max?: ...like this one can it run all ... http://yhoo.it/jz45LW'
+p316
+aS'Open Question: how can i solve the problm of overheating in my laptop?: when i run heavy games which needs more... http://yhoo.it/lCNAL4'
+p317
+aS'Open Question: What do I need to record Xbox game play, add commentary and then upload it to youtube?: ...to yo... http://yhoo.it/jBRlPr'
+p318
+aS'Open Question: PLEASE ANSWER! I WANT TO BE A MODEL!!!?: how do i get rid of acne scars i want to be a MODEL SO BAD! but i have acne s...'
+p319
+aS'Open Question: How can I make myself look pretty?:/?: Pic of mee----&gt;http://www.facebook.com/media/set/?set=a.147007358662880.22912.1...'
+p320
+aS'Open Question: on a scale of 1 to 5 how good looking im i, 5 being the best?: http://youtu.be/43dHDWbwIYU'
+p321
+aS"Open Question: What stores sell magnetic earrings?: I'm looking for certain stores that you would find in a mall strip or any mainstr..."
+p322
+aS'Open Question: please help pics included?: What do you think looks better?\nim going to a graduation and i am buying this dress for it...'
+p323
+aS'Open Question: What kind of outfits make you look short &gt;..?: im taller than all my friends and it makes me look so unattractive &gt;.&gt;'
+p324
+aS'Open Question: ANYONE HAVE A PICNIK ACCOUNT?!?: PREMIUM :)!??\nIf so can i use it to edit 1 photo!??! PLEASE & THANKIES :)!'
+p325
+aS'Open Question: help! im really really ugly?: ok guys i need serious help i used to be a lovely model with long brown hair and this mo...'
+p326
+aS"Open Question: Dressing up as a secret agent/spy?: I'm going to a bit of a dress-up party, and I'm going as a secret agent. But how? ..."
+p327
+aS"Open Question: How much do these piercings cost?: I'm getting some for my fifteenth birthday with my parents permission.\nI wanted to ..."
+p328
+aS'Open Question: My shoes STINK! (( 10 POINTS ))?: My running shoes smell horrible! (I walked in the rain with them a few days ago, and...'
+p329
+aS'Open Question: payback is a you know what?: last week my step sister put something in my shampoo that made my hair fall out.\nwhat is ...'
+p330
+aS"Open Question: how can i look good in shorts!!?: ok im a little bigger and im really short!...5'2.  i have very muscular legs and arm..."
+p331
+aS'Open Question: where can i find swimsuits with tops sold in sizes XL or cup sizes D and up?:'
+p332
+aS'Open Question: Where can I get colored fake mustaches...?: so... my friend is trying to grow a mustache. We all think it looks dumb b...'
+p333
+aS'Open Question: What is a homely face and do I have a homely face?: http://i55.tinypic.com/140eo45.jpg[/IMG]\nPicture of me\nOr what kin...'
+p334
+aS'Open Question: How do I look? Rate out of 10?: http://i56.tinypic.com/2ldu802.jpg'
+p335
+aS'Open Question: What kind of blue goes with purple?: I have a deep amethyst purple and the problem is I need to put it with blue. What...'
+p336
+aS'Open Question: PLEASE ANSWER! I WANT TO BE A MODEL!!!?: how do i get rid of acne scars i want to be a MODEL SO ... http://yhoo.it/mSWSx9'
+p337
+aS'Open Question: Rate these guys from one to ten?: Rate these guys from one to ten?\n1st Guy\nhttp://www.flickr.com... http://yhoo.it/lDx9RQ'
+p338
+aS'Open Question: girls i need some advice?: am i attractive in terms of face?\n\nhttp://tinypic.com/view.php?pic=2v... http://yhoo.it/kB7goQ'
+p339
+aS'Open Question: girls my friend needs help?: he has trouble dating. is it his looks?\n\nhttp://oi52.tinypic.com/2q... http://yhoo.it/mdY9zy'
+p340
+aS'Open Question: How can I make myself look pretty?:/?: Pic of mee----&gt;http://www.facebook.com/media/set/?set=a.1... http://yhoo.it/leCEBz'
+p341
+aS"Open Question: Do I look fat? (I'm the one in pink)?: I usually wear dark colors to make me look thinner, and t... http://yhoo.it/k1HAAv"
+p342
+aS'Open Question: What ethnicity do I look like?: http://i55.tinypic.com/140eo45.jpg[/IMG]\nPic of me\nChoose only f... http://yhoo.it/k6eJ3h'
+p343
+aS'Open Question: What is the shape of my nose?: http://oi55.tinypic.com/6ojs0k.jpg\nhttp://oi55.tinypic.com/bgv1a8... http://yhoo.it/kqvmjs'
+p344
+aS'Open Question: on a scale of 1 to 5 how good looking im i, 5 being the best?: http://youtu.be/43dHDWbwIYU http://yhoo.it/jok3qQ'
+p345
+aS'Open Question: Do you think i am pretty?: A girl at my school called me ugly.  I am 15 and want to know if you ... http://yhoo.it/lWXjhY'
+p346
+aS'Open Question: OPI shatter or China glaze crackle?: i would like to get one of these but im not sure which one ... http://yhoo.it/m8zsnR'
+p347
+aS'Open Question: Can I "transform" my body in 2 months, please read?: April 10\' I weighed 228 pounds, since then ... http://yhoo.it/lZPYpK'
+p348
+aS"Open Question: What stores sell magnetic earrings?: I'm looking for certain stores that you would find in a mal... http://yhoo.it/mStZMG"
+p349
+aS'Open Question: How to make my boobs look bigger and ask my mom for cup bras im 13?:  http://yhoo.it/mqitCg'
+p350
+aS'Open Question: Girls, is this a good thing to text her...?: Last night I got pretty drunk at a party and talked... http://yhoo.it/k1e5zf'
+p351
+aS'Open Question: Girls: Rate my guy neighbor 1-10?: What do you think? What are his flaws, etc.\n\nhttp://img98.ima... http://yhoo.it/mRJyNy'
+p352
+aS'Open Question: please help pics included?: What do you think looks better?\nim going to a graduation and i am bu... http://yhoo.it/kQMhPJ'
+p353
+aS'Open Question: what colour stockings should i wear with my emerald green wedding dress?: and what colour shoes ... http://yhoo.it/iyvbYD'
+p354
+aS'Open Question: Has anybody been to hair dressing school could you give me some thoughts and tips?: Has anybody ... http://yhoo.it/lto6ey'
+p355
+aS'Open Question: Which picture is better?: http://tinypic.com/view.php?pic=23lxo3b&s=7\nhttp://tinypic.com/view.ph... http://yhoo.it/kxONsE'
+p356
+aS'Resolved Q&A here! Open Question: What is a good vertical approach height for volleyball? http://adf.ly/1YzFP'
+p357
+aS'Sports Q&A Open Question: Luol Deng has shut Paul Pierce down in all of their four regular season meetings..? http://adf.ly/1Yz8F'
+p358
+aS'Resolved Q&A Open Question: Please join this boycott page!? http://adf.ly/1Yz8C'
+p359
+aS'I do watch college softball. Why? Because I played in High school'
+p360
+aS"I'm being honest, miss.....can you help me buy some crack? What?"
+p361
+aS'Ms., can you help a crackhead get some crack? Huh? (It gets better!) She opens a black bag and pulls out a letter... http://fb.me/Nl6G5qKT'
+p362
+aS'Ok.....this lady has on a down jacket and a wool hat? What is wrong with this picture?'
+p363
+aS'Tonite is elderly and stroke victim nite! Where are the home attendants?'
+p364
+aS"*blank stare* Known addict says: Ma (I'm NOT your mother!) can I get 50 cents to make a phone call? No. (No phone... http://fb.me/SS4cJ79q"
+p365
+aS'Miss, is there a size of bottle between the liter & the handle? *crickets* Answer: NO. Airplane bottle (50ml), 1/4... http://fb.me/LuBYqlSz'
+p366
+aS'Open Question: What can help me be a cop? http://goo.gl/fb/0vqbk #health #psychology'
+p367
+aS'Open Question: Do I look like Zooey Deschanel?: People tell me I look like Zooey Deschanel a lot ... http://yhoo.it/lA2qUX Yahoo Answers'
+p368
+aS"Open Question: How do I get my music career started?: I'm in love with singing and it's my life, ... http://yhoo.it/mSXN1l Yahoo Answers"
+p369
+aS"Open Question: Does anyone know who Lil Twist is?: and if you do. don't u think he's just the mos... http://yhoo.it/irwQwf Yahoo Answers"
+p370
+aS'Open Question: Is Robert Pattinson sexy? ;)?: i love him but wanted to know what other people think. http://yhoo.it/iwHNIr Yahoo Answers'
+p371
+aS'Open Question: what celebrity has the best sex tape?: i would like to know because theres some pr... http://yhoo.it/jJkRUb Yahoo Answers'
+p372
+aS"Open Question: how to lose thigh muscle for soccer?: okay so soccer's coming up in august but my thighs are very...  http://bit.ly/ecfG0M"
+p373
+aS'Open Question: How can I starve without people finding out?: Anorexic people please answer this question  http://bit.ly/ecfG0M'
+p374
+aS'Open Question: Whats a fast way to lose at least6 pounds in a week?:   http://bit.ly/ecfG0M'
+p375
+aS'Open Question: Ok Hemotest or Viridex?: Hey just wanting to know if hemotest or viridex would work better? I wen...  http://bit.ly/ecfG0M'
+p376
+aS'Open Question: Does anyone know where i can purchase the diet pill delganex from D.R?: Ive looked online and i c...  http://bit.ly/ecfG0M'
+p377
+aS'Open Question: Which green tea works better?: Im trying to loose those last 20 pounds and I cant seem to loose t...  http://bit.ly/ecfG0M'
+p378
+aS"Open Question: How much body fat do I have? Pic included?: I am 5'8 132 pounds which is considered low weight we...  http://bit.ly/ecfG0M"
+p379
+aS"Open Question: Help with weight loss?: I'm an 18 year old female. I work at a car wash, so my days are fairly ac...  http://bit.ly/ecfG0M"
+p380
+aS"Open Question: How should i best go about this?: i am 5'3.5 and 125 but alot of my weight is in my thighs. What ...  http://bit.ly/ecfG0M"
+p381
+aS'Open Question: Could vitamin deficiency cause you to be "slow"?: I used to be a quick thinker, solving problems ...  http://bit.ly/ecfG0M'
+p382
+aS"Open Question: How much should I weight?: I'm 13 yrs old\nI'm a girl\nAnd I'm short about 1.7 to 2m lol \nHow much ...  http://bit.ly/ecfG0M"
+p383
+aS'Open Question: am i small for my age?: im 19 years old. female. 5 foot 3. my body varies from 113-116 pounds.  http://bit.ly/ecfG0M'
+p384
+aS'Open Question: Personal Trainers: what would you think of girl who goes to your gym everyday?: but never even lo...  http://bit.ly/ecfG0M'
+p385
+aS"Open Question: Is this a Healthy breakfast??: Lately I've been eating this for breakfast every morning :\n\n1 cup ...  http://bit.ly/ecfG0M"
+p386
+aS"Open Question: Do you think I am eating enough?: I'm 17, 5 ft 6, and I have been feeling really rough recently.\n...  http://bit.ly/ecfG0M"
+p387
+aS'Open Question: How do I lose weight in my inner thighs?: I did ballet for about 12 years when I was young so I h...  http://bit.ly/ecfG0M'
+p388
+aS'Open Question: Muscle Definition Questions Help?: I was wondering how to get more definition in muscle definitio...  http://bit.ly/ecfG0M'
+p389
+aS'Open Question: Anorexia Recovery Help?: i have recently got my weight up after suffering from anorexia for rough...  http://bit.ly/ecfG0M'
+p390
+aS"Open Question: Toning muscle excerises?: I'm 5'9 Feet and weigh 57kg. I'm looking for a full workout home routin...  http://bit.ly/ecfG0M"
+p391
+aS'Open Question: how long the protein stay in your body?: for exanple if i take protein such amino acid,creatine.o...  http://bit.ly/ecfG0M'
+p392
+aS'I hate when I see people fighting via internet. What you gonna do... see who can type the fastest?'
+p393
+aS"Ronald McDonald has to retire because he is making kids fat? Really? So kids are driving themselves to McDonald's now?"
+p394
+aS'What do you think of our president?'
+p395
 a.
