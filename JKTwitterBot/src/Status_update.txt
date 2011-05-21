@@ -1,10 +1,792 @@
 (lp0
-S'Might get me a new cell phone, time to upgrade.'
+S'New Website: Landa Gardens Conservancy \xab BlackStone Studio Blog http://ow.ly/4QDff'
 p1
-aS'What movie is this from “I love the smell of napalm in the morning”?'
+aS"Cinko's lazy Sunday watching TV.  http://instagr.am/p/ETmNz/"
 p2
-aS'What is the best day of the week, well Friday of course TGIF baby!'
+aS"You know you're texting too much when your dog taps your hand with his paw to get you to stop and pay attention to him. :)"
 p3
-aS'My favorite quote from forest Gump “Life is like a box of chocolates you never know what you’re going to get” '
+aS'Where is my beach? I miss it! I need my swim to keep me fit and happy'
 p4
+aS'Jessica Alba Is Pregnant And Gorgeous In Florals: Welcome to our coach outlet online store,here are the most com'
+p5
+aS'May is National Bike Month, go out and ride a couple miles'
+p6
+aS'my kids broke their dads cd player in his car'
+p7
+aS'Photo: Why did they alter the Mary Katrantzou dress on Bom? It\x92s so pretty as it is! She still looks great,'
+p8
+aS'Just woken up in an upstairs room of a pub'
+p9
+aS'I get home from buying Kinect to find Mexican food waiting for me'
+p10
+aS'Y perm? U will look younger in straight hair leh'
+p11
+aS'\xa3800,000 in gold coins dug up in Hackney back yard - mirror'
+p12
+aS'I hate how it takes you 45minutes to reply and I still answer right away'
+p13
+aS'Phone charger and MacB charger in my locker at law school'
+p14
+aS"we'll never run, away, so stand and fight another day"
+p15
+aS'Suprising how unfit you get when u dont run for a few of weeks'
+p16
+aS'Really missing #nbcCommunity tonight. Michael Scott, too. #TheOffice'
+p17
+aS"TVLine Items: #PrisonBreak Vet Is TV's #Transporter, Jen Aniston's Hotness, and Other News to Know http://t.co/ixdEfDe"
+p18
+aS"Updated TVLine Items: #PrisonBreak Vet Is TV's Transporter, #GH Hunk Fired, #GMA Goes Gaga, and More! http://t.co/ixdEfDe"
+p19
+aS"LA North Central shelter is overcrowded & countless dogs will be put down this weekend. Please adopt if you're able! http://on.fb.me/lpbLiY"
+p20
+aS"You know he's tired when he sleeps next to flip flops and cables! :) http://instagr.am/p/D-rVU/"
+p21
+aS'Vareed Family Photos \xab BlackStone Studio Blog http://ow.ly/4Mlp3'
+p22
+aS'New Website: 2 Gringos Salsa \xab BlackStone Studio Blog http://ow.ly/4LEd1'
+p23
+aS'Having fun at the Cordillera Ranch Shindig!  http://instagr.am/p/Dutua/'
+p24
+aS'Sneak Peek: Vareed Family  http://wp.me/pEglH-uM'
+p25
+aS'New Website: Rebecca Guerra \xab BlackStone Studio Blog http://wp.me/pEglH-uC'
+p26
+aS'Three New Flyer Designs! \xab BlackStone Studio Blog  http://wp.me/pEglH-ux'
+p27
+aS'High Performance Home Logo \xab BlackStone Studio Blog http://wp.me/pEglH-uf'
+p28
+aS'so tired... and it will be another busy weekend. Longing for a weekend where I can actually relax! #tootiredtothink'
+p29
+aS'Trimmed the hedges of my house for the first time ever. I may not have a future in landscaping but at least they  http://instagr.am/p/DIG_j/'
+p30
+aS'Pool time! Sun bathing time! http://instagr.am/p/DCEZe/'
+p31
+aS'\x93Luck is what happens when preparation meets opportunity.\x94'
+p32
+aS"This is what happens every time I have a meeting at Kate's Frosting... Yum! http://instagr.am/p/C7INn/"
+p33
+aS'my dog really think he a baby, smh.  http://twitpic.com/50anm3'
+p34
+aS'But the child born on the Sabbath Day is fair and wise and good and gay.'
+p35
+aS"Friday's child is loving and giving, Saturday's child works hard for a living."
+p36
+aS"Monday's child is fair of face, Tuesday's child is full of grace. Wednesday's child is full of woe, Thursday's child has far to go."
+p37
+aS"There's fireworks. The flatulent dog is cowering under me. Awesome."
+p38
+aS"The dog is flatulent. And it's dreadful. Ugh."
+p39
+aS'Had Thai for dinner. Full to my eyeballs.'
+p40
+aS'Redbud and a flowering plum in bloom at my house.  http://twitpic.com/506eu9'
+p41
+aS'To the market, then to the garden.'
+p42
+aS"Just saved my dog's life. Seriously. He had a stick wedged in the roof of his mouth. He's fine. I'm still shaken up."
+p43
+aS"If your school could have access to a half-time tech coach for $5000 a year don't you think they'd jump at the chance?"
+p44
+aS'I wiill be creating two classes this summer. Digital Tools and World Studies! I think they will ROCK! #esu13'
+p45
+aS'How many people can video chat on FREE version of Skype at one time?'
+p46
+aS'Random fact: There are 53 sessions at #iste11 that use the word "ipad" as a key word.'
+p47
+aS'I was just looking for someone in my chat list and discovered I had blocked him. Thought the Newbie had been quiet lately! Oops.'
+p48
+aS'My dog has a lazy eye lol'
+p49
+aS'I wish Capri suns were bigger!'
+p50
+aS'#nw kitchen nightmares'
+p51
+aS"Beautiful day and I'm inside. Such a shame"
+p52
+aS"i hate looking at cute clothes i can't buy"
+p53
+aS"Don't ask for advice if your not gonna use it!"
+p54
+aS'the school is so quiet!'
+p55
+aS'Listening to music and playing angry birds all first period :)'
+p56
+aS"Thought you'd alway be mine,mineeeee #np"
+p57
+aS"Hope today's a good day :)"
+p58
+aS'5 people in first period...'
+p59
+aS'All my neighbors are sitting outside for a smoke. I find this amusing.'
+p60
+aS"But I don't know which friends they are."
+p61
+aS'In in the front yard cleaning my fountain and peeps honk a hi and wave.'
+p62
+aS'Its so hot out'
+p63
+aS"It's senior skip day or something like that."
+p64
+aS"You're as weak as the hearts you break."
+p65
+aS"You're as fake as the moans you make."
+p66
+aS"Am I the only one that's glad that the ~hipster~ trend is dead now?"
+p67
+aS"That scene in the sixth sense where Cole gets locked in the closet is the reason why I don't like most kids."
+p68
+aS'Asdfghi sixth sense is playing tonight'
+p69
+aS'fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.fat.'
+p70
+aS'I love tv'
+p71
+aS"Lmao I can't take it~"
+p72
+aS'"where is your wife Sir?" "i think shes dead too."'
+p73
+aS'"911 whats your emergency?" "i ODed on weed...and I think I\'m dead" lolololol'
+p74
+aS'But now im not legit, thus I must quit.'
+p75
+aS"I'm legit. I'm too legit to quit."
+p76
+aS'my dog is playing with #ANTS , ugh no life -__-'
+p77
+aS'thats pizza was yum [:'
+p78
+aS'awe just found out my puppys brother died yesturday :/ How sad &lt;||3'
+p79
+aS"I'm texting &walking my dog &walk into a puddle that soaked my entire left foot. -.-"
+p80
+aS'I do best with double header games. (:'
+p81
+aS'Senior Day Double Header ! (:'
+p82
+aS'Rain, rain. Go away..'
+p83
+aS'#oomf wants me to go to ihop with them. :/'
+p84
+aS'People say happiness takes time, so ima just wait.'
+p85
+aS'If I get my shit together, I could be great.'
+p86
+aS'Lol.'
+p87
+aS'Twitter getting like Facebook.'
+p88
+aS'John Mayer &lt;3'
+p89
+aS'3% smh.'
+p90
+aS'I should change my twitcon.'
+p91
+aS'For this ignorant boy to be subtweeting me, who are you?'
+p92
+aS"Actually, in the bible, it's says no person knows, not Jesus, just God, so YOU'RE the one that sounds ignorant, read your bible.#subtweet"
+p93
+aS'Everybody going in on the world ending tomorrow, gone be tweeting *thank God for opening my eyes Sunday morning*'
+p94
+aS"#iWannaSlap everybody who's repeating that bullshit about tomorrow. \n*gets powder* lok"
+p95
+aS'Why are all of the SHINee Zodiac facts for Jonghyun just about his sex drive'
+p96
+aS'My mom just asked what being in the pit is like. I told her to ask Han Solo what being in the carbonite was like.'
+p97
+aS'In other news, Taemin sounds so good on the Jap Replay.'
+p98
+aS"If you're embarrassed to be a fan of something, then you're not a fan. Grow some balls."
+p99
+aS'awwwww fangool I made this video too big fer youtube'
+p100
+aS"But only because Pink's songs/videos are cliche to infinity and beyond."
+p101
+aS"I'm sick of both Pink and Selena Gomez. How bout dem apples."
+p102
+aS'#everydaygpoy http://26.media.tumblr.com/tumblr_liqxhmhxpD1qzzb83o1_500.gif'
+p103
+aS'Looks like Iggy Pop http://hostingb.hotchyx.com/adult-image-hosting-00/7498janice-dickinson-naked.jpg'
+p104
+aS'Awesome. Feral parakeets. http://is.gd/PeePZm'
+p105
+aS'CNN on sci-tech-eng-math dropouts: http://is.gd/rOxTzR Resilient, persistent students succeed. Giving up on "hard" majors is too acceptable.'
+p106
+aS'VanOC closing ceremony beaver in Dundas Sq today http://yfrog.com/h0yf5zclj'
+p107
+aS"Was to be a working long weekend for me, but my printer is out of toner, and I've been told I can't have a new one till first of next week."
+p108
+aS'Dear 16 Year Old Me http://is.gd/vrJ3bN says wear sunscreen year round. Melanoma Awareness Month.'
+p109
+aS'Emergency preparedness materials from the US CDC on Zombie preparedness. No kidding. http://is.gd/M4P1PK'
+p110
+aS'Blast from the past, my erstwhile thermo prof Dr. Tom Brzustowski keynoting the 10th anniv. of Ryerson grad studies in Mech/Ind/Aero Eng.'
+p111
+aS'"Danger: Avoid death" and other wacky warning labels. Slide show. http://is.gd/kFagtP'
+p112
+aS'States seek to escape rising prison costs\n(Reuters): Reuters \x96 States have been shackled for years by the rising... http://bit.ly/lQ7cp0'
+p113
+aS'River traffic, people and animals feel strain of flooding\n(Reuters): Reuters \x96 A five-mile stretch of the Missis... http://bit.ly/kRf5C9'
+p114
+aS'Remarks by the President, CIA Director Leon Panetta, and DNI Director James Clapper to the Intelligence Communit... http://bit.ly/kIRCYd'
+p115
+aS'Presidential Proclamation\x96National Safe Boating Week: Release Time:\xa0 For Immediate Release \xa0\xa0\xa0\xa0\xa0As Americans ant... http://bit.ly/mxvii7'
+p116
+aS'President Obama Grants Pardons: Release Time:\xa0 For Immediate Release WASHINGTON \x96 Today President Barack Obama g... http://bit.ly/khcOx4'
+p117
+aS'Gameprom Adds Game Center To Their Military-Themed Pinball Game: Gameprom\x92s first update to their meticulously c... http://bit.ly/irCOia'
+p118
+aS'Managing FaceTime On Multiple iDevices: One of the coolest features Apple introduced with the iPhone 4 was the a... http://bit.ly/mJf8de'
+p119
+aS'AppAdvice Daily: Trade In Your Old iDevice, Celebrate With Apple This Weekend, And Fun Friday Freebies: Still ha... http://bit.ly/kFss8o'
+p120
+aS'The iPhone 5\x85 Still Interested?: Rumors have been filtering in regarding the iPhone 5, shaping expectations. The... http://bit.ly/kg27yu'
+p121
+aS'LinkedIn IPO Paints Rosy Picture for Other Social Nets: LinkedIn\x92s doubled stock price after its IPO on Thursday... http://bit.ly/kMG5eP'
+p122
+aS'Amazon Shoppers Becoming E-Bookworms: Amazon has reached a momentum milestone: Its customers are purchasing more... http://bit.ly/jjcof1'
+p123
+aS'Apple Clinches Deals, Inches Closer to the Cloud: Apple is reportedly one step away from clinching agreements wi... http://bit.ly/j7LX4G'
+p124
+aS'Just jailbroke \x97 few questions: 1. Winterboard themes don\x92t seem to be working. I want to install UniAW 2.3 (ani... http://bit.ly/kcCprA'
+p125
+aS'Status bar on side of screen.: How do I get the status bar from the side of my screen back to the top? Attached ... http://bit.ly/lUZXdZ'
+p126
+aS'iPad 2/iPhone 4 \x96 after market chargers etc.: please spare me the "LOL OMGZ USE GOOGLE DUMMY, LOL IM SO WITTY" c... http://bit.ly/m5JAoz'
+p127
+aS'how to jaibreak on 4.2.1 on ipod itself??: hi can anybody help me. im trying to jailbreak my ipod on the device ... http://bit.ly/lxWhrF'
+p128
+aS'Blog Post: Building a cool, capable Home Theater PC with AMD\x92s Fusion APU: I first heard about the Fusion APU\x92s ... http://bit.ly/mRESao'
+p129
+aS'Blog Post: Guest Blogger Tanya Gordon Talks Windows Live Writer: After working professionally at McGraw-Hill as ... http://bit.ly/lN93Xg'
+p130
+aS'Blog Post: Hands-on: Lenovo re-thinks the ThinkPad with the new X1: A few years back during the Vista era, Lenov... http://bit.ly/iEy7jG'
+p131
+aS'Air Force Wants Satellites Smart Enough to Fly Themselves: Today\x92s military satellites are $500 million miracles... http://bit.ly/l4srId'
+p132
+aS"Donald Duck comics were banned from Finland because he doesn't wear pants"
+p133
+aS'In the last 4,000 years, no new animals have been domesticated'
+p134
+aS"I'm too fat to go chasing you around, I'll just blast some holes in you"
+p135
+aS'Why are a wise man and a wise guy opposites?14'
+p136
+aS'It is physically impossible for pigs to look up into the sky'
+p137
+aS'Mailing an entire building has been illegal in the U'
+p138
+aS'Cynic: A person who has an accurate view of the world. Optimist: A cynic in the making. Pessimist: A cynic with a vivid memory'
+p139
+aS"The first product to have a bar code scanned was Wrigley's gum"
+p140
+aS'Some people are merely alive because it is against the law to kill them'
+p141
+aS'The day you decide to do it, is your lucky day'
+p142
+aS'If the gods are watching, the very least we can do is be entertaining'
+p143
+aS'Patience is the companion of wisdom - St. Augustine.'
+p144
+aS'The oldest commercially marketed carbonated drink was Moxie, which became available in apothecaries as a medical tonic in 1876'
+p145
+aS'Europeans in the Middle Ages used to call coffee the Arabic Wine'
+p146
+aS'Emergency pet care now done in Peterborough http://bit.ly/kGaXnL'
+p147
+aS'Pet Health Check-Up: Most Common Dog, Cat Diseases Revealed http://bit.ly/lhFyrQ'
+p148
+aS"Body's Healing Power Used To Cure Dogs, Cats http://bit.ly/kqU9nF"
+p149
+aS'Advocate`s Flea & Tick Treatment For Your Dog; Cat http://bit.ly/lJor7l'
+p150
+aS'Insight: The Rapture / Overweight Pets / Roy Blount Jr. / One Eyed Rhyno http://bit.ly/jRHB5K'
+p151
+aS'The aging caring for the elderly [CNN: 5-15-2011]: veterinary dog care burden Money Aging Parents ed... http://bit.ly/lYyHlr -hot video!'
+p152
+aS'Insight: The Rapture / Overweight Pets / Roy Blount Jr. / One Eyed Rhyno http://bit.ly/mQ84FM'
+p153
+aS' Pets` Spark For Your Dog`s Tear Stains; An Explanation http://bit.ly/kkImzb'
+p154
+aS'Readers Letters: \x93FAKE BOOBS, FAKE BOTOX\x94 http://bit.ly/mOiLUQ'
+p155
+aS'CNY Pet Expo - Saturday in New Hartford http://bit.ly/mDLLMf'
+p156
+aS"Gateshead man's scars after being knifed in street http://bit.ly/iAUDnR"
+p157
+aS"Facility for disaster victims' pets struggles with limited supplies and manpower http://bit.ly/iWIMus"
+p158
+aS"Gateshead man's scars after being knifed in street http://bit.ly/jp7he9"
+p159
+aS"They Saut\xe9 Horses, Don't They? http://bit.ly/iD7vrC"
+p160
+aS'Mammals Smelled Their Way To Bigger Brains http://bit.ly/kZDNxy'
+p161
+aS'Green your life at weekend family festival http://bit.ly/jCXQr9'
+p162
+aS'Sink your teeth into dog bite prevention http://bit.ly/moqWcT'
+p163
+aS'No headline - Heloise_0522 http://bit.ly/k7I6RC'
+p164
+aS'Buttons wants her medicine!: Buttons the dog gets excited for her medicine.37 sec http://bit.ly/jPYmYA -hot video!'
+p165
+aS'Potentially dangerous dog treats recalled http://bit.ly/jgPcJ1'
+p166
+aS'Wow, I got many new fans on Twitter!  http://alturl.com/2swy6'
+p167
+aS'the title on jerry springer is lesborama "lesbian drama". LOL'
+p168
+aS"Even tho I don't like figuring out watches I want a pretty one lol all white with crystals. For fashion. Ill look at my fone for the time"
+p169
+aS'Is good day!'
+p170
+aS"OMFG, NOBODY TOLD ME THE NOTEBOOK WAS ON... *changes channel* lol, now I'm about to recite the rest of the movie lmao."
+p171
+aS'Why is it that my time in New York consists of sleeping and eating at the sheraton and walking through the airport! :('
+p172
+aS'sometimes I wonder if 4x4 marketing teams could give tourism marketing teams a proper learning. Not online though - their both tonk there.'
+p173
+aS'Drank 3 mocha frappes today.. never knew they were soo fucking good'
+p174
+aS'Off to bed... long day tomorrow. Have a good one all! Sweet Dreams!'
+p175
+aS"e He's using MU's red and white jersey, and also red shoes. He doesn't use his glasses. He's so handsome ;D eaaaaaaaa"
+p176
+aS'Rediscovering my deep affection for country music'
+p177
+aS'many females have threatened to steal my shirt in the twitcon 0_o'
+p178
+aS'FT island or MBLAQ or TVXQ (5 people) ? gotta draw for my last T shirt design. choose one please :)'
+p179
+aS'I love when Joe Buck trends and its just full of people slamming him. That guy is the worst.'
+p180
+aS'Ear wigging on some cracking old people discussion waiting to M&S to open for breakfast.Talkin about fashion an Gok Won being a mincer haha'
+p181
+aS'Just got a good win. Feels good getting back on track'
+p182
+aS"Strangley enough, I'm having trouble coming up with a billion dollar idea that would innovate the world of technology"
+p183
+aS'ITS OFFICIAL I HAVE NOW ONE YEAR OF EXPERIENCE AS A MUSIC PRODUCER.....I HAVE DEVELOPED SKILLS IN ALL DIFFERENT GENRES OF MUSIC!!!!!!!'
+p184
+aS"Good thing I found out now... Can you imagine finding out you with a moron after y'all are ten years in the relationship?"
+p185
+aS'OK. go!'
+p186
+aS'Tips about the Shih Tzu dogs: The Shih Tzu breed has dogs in small sizes: their height measures 8 inches and up ... http://bit.ly/jBNcXd'
+p187
+aS'What should you and your dog should not fed: Ever wondered whether you are feeding your dog the right foods? Her... http://bit.ly/k547NT'
+p188
+aS'The long coated Yorkshire Terrier breed: There must be a lot of things worth to know about the Yorkshire Terrier... http://bit.ly/iRyW51'
+p189
+aS'Your dog and the health issues associated with infestation fled: Many people realize not the severity of the unt... http://bit.ly/lRYD3x'
+p190
+aS'Wooden dog of crate sales explode in 2011: The popularity of the case out of wooden dog has increased in the las... http://bit.ly/m5Non6'
+p191
+aS'Prevent bad breath in dogs, by you you the best dental care: Many people around the world own dogs, because they... http://bit.ly/jvYxhC'
+p192
+aS'Summertime swimming and beach tips for your dog: It start inside the warm weather to the County and the time to ... http://bit.ly/iXphX7'
+p193
+aS'Some tips about the Labrador dogs: The very popular Labrador search race many dog lovers. Before but this breed ... http://bit.ly/lj5Wr4'
+p194
+aS'The Labrador Retriever puppy: Dogs, which suited would make an animal companion, but that is Labrador perfectly ... http://bit.ly/lxZsfq'
+p195
+aS'The ideal time to dog obedience start to correct training behavior problems: The time, to dog training must star... http://bit.ly/kUkar1'
+p196
+aS"Zwergpinscher feeding: Be careful, don't overfeed your Zwergpinscher. An adult Zwergpinscher eats typically two ... http://bit.ly/iCd7Qw"
+p197
+aS'Tips for buying the best dog CAGES and cages: Dogs hate simply kept in one place are, but there are times when y... http://bit.ly/lKI9kW'
+p198
+aS"Sounds of the season and your dog's anxiety: Thunder claps and your dog bolts instantly to a dark corner or unde... http://bit.ly/mRNueL"
+p199
+aS'Recovery of canine Luxating patella surgery - is it not as easy as it may seem: Their dog had successful surgery... http://bit.ly/jbdrXT'
+p200
+aS'Use the ingredients to judge dog food: Anyone can determine the difference between a poor dog food, which is fil... http://bit.ly/lzBnm6'
+p201
+aS'Training your dog: Dogs are really best friend of man. But your new PAL may be only a little devil. Training you... http://bit.ly/mGWNMo'
+p202
+aS'The USDA move the role of your dog from abroad - certified veterinarian: Always your dog the paperwork completed... http://bit.ly/jQE87P'
+p203
+aS'The hybrids known as Beabulls: Designer and hybrid dogs are booming increasingly popular these days, which has l... http://bit.ly/jGHiSh'
+p204
+aS'The Chihuahua dog is the smallest breed: The small dog breed Chihuahua, but with a very fine structure of bones,... http://bit.ly/lLT2Q6'
+p205
+aS'These are the amazing feats by amazing dogs only for dogs: This article is about some amazing things do, I came ... http://bit.ly/kSRczQ'
+p206
+aS"precious old man just talked to me in starbucks for an hour, told me all abt his songs & children's stories #whoknows? #couldbejesus"
+p207
+aS'Forgot how ridiculous driving in branson is... #weirdesttownever #ijustwanttacobell'
+p208
+aS'House is going all 127 Hours on me... #sick #canthandleit'
+p209
+aS"my mom just bought a golf ball monogrammer for 50 cents at a thrift store... ??? she's excited, i'm confused #storyofmylife #welcomehome"
+p210
+aS'http://lockerz.com/s/102462757 silver dollar city with this crazy crew.  #ilovebranson'
+p211
+aS'Move over Mozart, Caleb Cooper is taking your place. http://lockerz.com/s/101953665'
+p212
+aS"Arkansas Kanakuk staff come pick up your staff shirts at the klife barn. We'll be here till 3!!"
+p213
+aS"http://lockerz.com/s/99626765 spending my day with this little cutie. Wouldn't have it any other way.#recess #99balloons"
+p214
+aS'SUPPORT ALABAMA VICTIMS!!! bring bottled water to lot 56! ANYTHING IS HELPFUL!! #wootide #hogscare'
+p215
+aS'WOO TIDE. Hogs care! Greeklife dominated in donations for Alabama tornado victims! #ilovebeingarazorback http://lockerz.com/s/98744122'
+p216
+aS'"I worry for young girls sometimes; I want them to feel they can be sassy, weird, geeky, smart, independent, not so withered and shriveled"'
+p217
+aS'story time with the siblings = Caleb "once upon a time lived 2 little pigs named marsha and denzel..." #siblingslumberparty #myfamilyrocks'
+p218
+aS'Happy cinco de mayo. #success  http://t.co/TgQhpGw'
+p219
+aS'listening to an instrumental track of "my heart will go on" #yeaitshappening'
+p220
+aS'Did anyone watch the royal wedding!?!?!!!'
+p221
+aS"Documentary on walt Disney's life,  now Indian in the cupboard.... I've seen both of these before #familytime #oldmemories"
+p222
+aS"It's not my birthday #thanks-shea"
+p223
+aS'Just got my poof search while going through security at the airport #truearkansasgirl'
+p224
+aS'You gotta let a bird fly!! #gotitmom?!?!'
+p225
+aS'Just overheard two girls talking,"they give this stuff to like homeless people!" "o my gosh I love homeless people!!!" #justloveditsygirls'
+p226
+aS"Bla bla I hate school can't  wait for summer!!!!"
+p227
+aS'Saw a random boy wearing a guy Harvey kappa shirt!! #proudmama'
+p228
+aS"Anybody in mullins and have headphones I can borrow? I need them for a class thing!! #I'matard"
+p229
+aS"Couldn't study in the union because of the very loud mexican fiesta music. Never been so happy to be interrupted :)"
+p230
+aS"My brain can't take all this studying. although dude in the fluorescent tank top is entertaining me how guido of you... rarrrrr!"
+p231
+aS'Such interesting conversation go on in 404 loft hmmm'
+p232
+aS'Just call me tubby!! What does # mean ??'
+p233
+aS"First tweet eva!!!!!! I feel like I'm entering a whole new world where I don't speak the language!"
+p234
+aS'Animals that lay eggs don\x92t have belly buttons.'
+p235
+aS'Stop tweeting all day with no visible results.  Automation is the key to success! http://tiny.ly/UG3'
+p236
+aS'There are 336 dimples on a regulation golf ball.'
+p237
+aS'The average person falls asleep in seven minutes.'
+p238
+aS'The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.'
+p239
+aS'Wondering how others are able to grow their Twitter accounts so quickly and easily? Find out right here: http://tiny.ly/UG3'
+p240
+aS'The \x91Oz\x92 in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z, hence "Oz."'
+p241
+aS'Alexander the Great was an epileptic.'
+p242
+aS'Take advantage of this incredible software to automatically manage multiple Twitter accounts. http://tiny.ly/UG3'
+p243
+aS'Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.'
+p244
+aS'The characters Bert & Ernie on Sesame Street were named after Bert the cop & Ernie the taxi driver in Frank Capra\'s "Its A Wonderful Life"'
+p245
+aS'You won\x92t believe how easy it is, and how targeted your Twitter list building will become with this automated software! http://tiny.ly/UG3'
+p246
+aS'A pregnant goldfish is called a twit.'
+p247
+aS'In most advertisements, including newspapers, the time displayed on a watch is 10:10.'
+p248
+aS'Ready to give up on your Twitter business?  Find out how to automate the process and become successful! http://tiny.ly/UG3'
+p249
+aS'A full seven percent of the entire Irish barley crop goes to the production of Guinness beer.'
+p250
+aS'Find and engage with like-minded Twitter followers and automate your Twitter posts. http://tiny.ly/UG3'
+p251
+aS"It is impossible to sneeze and keep one's eyes open at the same time. (Try it!)"
+p252
+aS'A sneeze can travel as fast as 100 miles per hour'
+p253
+aS'As you grow your network, increase your traffic and networking abilities, and even increase direct sales to your site. http://tiny.ly/UG3'
+p254
+aS'ahh.. this evening i was having fun with my special one at MC Donalds\nhttp://AdPerTweets.com/ad.asp?a=73&u=510'
+p255
+aS'new blackberry 900 smartphone for 300$. what are you waiting for. http://bit.ly/lPKTok'
+p256
+aS'The Big Mac The King Of all Burgers!\nhttp://AdPerTweets.com/ad.asp?a=73&u=510'
+p257
+aS'Traditional Art: Renewable energy world http://t.co/TzTb7Lz'
+p258
+aS'My friend of hunger.... The Big Mac The King Of all Burgers!\nhttp://AdPerTweets.com/ad.asp?a=73&u=510'
+p259
+aS'London locksmiths, covering Clapham and Wandsworth http://t.co/GMhMv7G from Lowcosting Locksmiths'
+p260
+aS'OMG: This girl KILLED herself after her father posted this on her WALL: http://bit.ly/iaZYhE Mark Shami'
+p261
+aS'I really have not been eating lately, even though it probably seems like i have.'
+p262
+aS"When you've thought it before they have!"
+p263
+aS'She said some of the duties are...there were 19 things on the list!'
+p264
+aS"It aint you it's the thangs you do, It's tearing my heart in two, I woulda failed witchu, to hell witchu!"
+p265
+aS'I Learnt How To Tell A N*gga F**k You Then! #Deuces'
+p266
+aS'The rivalry between jamaicans and nigerians! #nonsense'
+p267
+aS'Back then not all nigerians were that proud of the bangers that come from there! Lol! All of a sudden they are! #amjussayin :D'
+p268
+aS"Khloe Kardashian's best friend Malika is soooooooo pretty! Wow"
+p269
+aS'So we meet again!'
+p270
+aS'Separating the boys from the men!'
+p271
+aS"I'm guessing Gemini, Leo, Sagittarius, Aquarius or Libran!"
+p272
+aS'good thing dogs dont talk, i would be in too much trouble'
+p273
+aS'#itshardwhen *moans* . . . thatss what he said(;'
+p274
+aS"i shouldn't have told him he was the one for me when i aint even planing to call"
+p275
+aS'NaCh0_53 goodnight little munshkin(:'
+p276
+aS'#nw everybody hates chris then everybody loves geoge(:'
+p277
+aS'Dios quiera que el mundo no se acave el 21. #PossitiveTweet'
+p278
+aS'we need some rain, our deserts are drying up ;o'
+p279
+aS'and today was the day when i stopped giving a damn'
+p280
+aS'you calling me babe & we aint going out -_- #thatswhyursingle'
+p281
+aS'finished watching Easy A&lt;3'
+p282
+aS'#youwerecooluntil ju ztarted textiinq liike diiz'
+p283
+aS'#youwerecooluntil you tweeted'
+p284
+aS'Who let the dogs out???'
+p285
+aS'Alejandro Jodorowsky(maestro)\nLa que se enamora de un lobo, lo convierte en dios.'
+p286
+aS'I JUST WANT TO FEEL REAL LOVE,\nFEEL THE HOME THAT I LIVE IN.\nI GOT TOO MUCH LOVE\nRUNNING THROUGH MY VEINS'
+p287
+aS'LOVE IS IN THE RAIN!!'
+p288
+aS'so hard: "no llamemos voluntad de dios a la falta de agallas, coraz\xf2n y responsabilidad!.\nDios no patrocina estupideces.'
+p289
+aS'Si una hembra si quiere a un hombre, por \xe8l puede dar la vida;pero hay que tener cuidado  si esa hembra, se siente herida......yihaaaaa \xb7'
+p290
+aS'Como hemos cambiado....'
+p291
+aS'Gracias por el regalo mas grande que me pudiste haber dado ...la vida misma, esto es mag\xeca, esto es pasi\xf2n, esto es amor. TE AMO mam\xe0'
+p292
+aS'Venga!! por qu\xe8 lo mejor comienza HOY. con toda la pasi\xf2n por vivir, por ser y estar.... here we go....onces again.'
+p293
+aS'No tengo ganas de cambiar el rumbo, no tengo fuerzas de subirme al mundo, hoy me quedo entre....mis almohadas :=)'
+p294
+aS'... my love life...'
+p295
+aS'Im not running away, im coming home....'
+p296
+aS'Ask me anything http://formspring.me/Ivannka'
+p297
+aS'Venga con todo el power, May 2011...tiempo de cambios, tiempo final.'
+p298
+aS'Javi paseando a Harry, hoy no quiero hacer mucho...solo disfrutar.'
+p299
+aS"Do people not know that Selena has saved almost 10 dogs from dying? She's one of the biggest animal lovers... http://tumblr.com/x7r2lzoq8e"
+p300
+aS'teiganiscool: http://tumblr.com/x7r2lzn3mm'
+p301
+aS'Photo:  http://tumblr.com/x7r2lzle5l'
+p302
+aS'Photo: rockandlovedream: http://tumblr.com/x7r2lzkfnf'
+p303
+aS'pickleswithasideofgomez: http://tumblr.com/x7r2lzj6z7'
+p304
+aS'Photo:  http://tumblr.com/x7r2lzil9y'
+p305
+aS'italllooksgreatfromhere: http://tumblr.com/x7r2lzihvi'
+p306
+aS'Sa5m. The 5 is silent. http://tumblr.com/x7r2lk2vwi'
+p307
+aS'"Everything happens for a reason and, something better will come along for me!" \x97 Selena Gomez http://tumblr.com/x7r2lk13dd'
+p308
+aS'I just automatically reblog any picture I see of Selena Gomez http://tumblr.com/x7r2ljv0mr'
+p309
+aS'Photo:  http://tumblr.com/x7r2ljijsm'
+p310
+aS'Photo:  http://tumblr.com/x7r2ljf7bp'
+p311
+aS'Photo: VERY CREEPY FILM! (but good!) http://tumblr.com/x7r2lj69uw'
+p312
+aS'mcbrien: http://tumblr.com/x7r2kf016p'
+p313
+aS'gomezfan: http://tumblr.com/x7r2key0pi'
+p314
+aS'gomezfan: http://tumblr.com/x7r2kewt3k'
+p315
+aS'Photo: umakemesparklepink: http://tumblr.com/x7r2kewm6x'
+p316
+aS'"You\x92ve got every right to a beautiful life." - Selena Gomez (via itsyourtimenow) http://tumblr.com/x7r2k97idy'
+p317
+aS'Photo:  http://tumblr.com/x7r2k97cxt'
+p318
+aS'Photo:  http://tumblr.com/x7r2k94slf'
+p319
+aS'Zzzzz'
+p320
+aS'Going to go to sleep :)'
+p321
+aS"dosnt know if she'l bother going to bed tonight considering the worlds supposed to end tomorrow. Arghghg..."
+p322
+aS'Loves the faces her mum pulls when she tastes wine. Aww. Gotta love her!'
+p323
+aS'Finally getting the hang of twitter .. :D'
+p324
+aS'Slowly but surely going back blonde :D'
+p325
+aS'SO BAD AT THIS WHOLE REVISION STUFF.'
+p326
+aS'should be revising.'
+p327
+aS'BORED.'
+p328
+aS'If you could instantly become fluent in another language, w\x85 \x97 French, it would really help with the exam tomorrow. http://4ms.me/l31ovJ'
+p329
+aS'Prettiest "bear" ever! http://picplz.com/rs0n'
+p330
+aS"how to embrace your naked ambition and make your subconscious your bitch: http://t.co/QXhGEHY &gt;what's yours?!"
+p331
+aS'Kesha Bruce - In The Studio: 10 Easy Steps To Becoming A Better Artist http://bit.ly/hfdcuc Oh YEAH!'
+p332
+aS'never. a. dull. moment.'
+p333
+aS'Alrighty nearly 5pm here on East coast -- wrapping up the chat -- final thoughts/questions? #handchat'
+p334
+aS"When it is present (Merc line) it's usually about your spiritual connectedness, your communication comfort/skill #handchat"
+p335
+aS"and I've been studying intensely since.  It IS fascinating (so glad you agree) #handchat"
+p336
+aS'A Mercury line usually starts at the bottom or middle of the palm and aims for the pinky/Mercury finger.  (may not get there) #handchat'
+p337
+aS'We also call the outer edge of the palm The Moon or you may hear outer mars too.  #handanalysiscanbeconfusing #handchat'
+p338
+aS'okay where was I?  What do YOU all want to know about your hand/s?\n #handchat'
+p339
+aS"Have you printed the Makeness Manifesto? If so, holler! I'm collecting pics to post on my site of how ppl have used it. http://ht.ly/4ZBJq"
+p340
+aS'brain full. no more room in brain. #actionstudio'
+p341
+aS'A dog is the only thing on earth that loves you more than he loves himself.'
+p342
+aS'The man who smiles when things go wrong has thought of someone to blame it on'
+p343
+aS'That super clean feeling when you get out the shower #thebest'
+p344
+aS'ma swagg is unheard of , ma niggas inconceivable . .'
+p345
+aS'Home from the spring game ( : so wassup ?'
+p346
+aS'Your the only one I want in my life #ipromiseyou'
+p347
+aS'I hate the feeling of being really really tired ! #sucks'
+p348
+aS'dontt everr worryy aboutt people thatt dontt worry aboutt youu . .'
+p349
+aS"Hipss &' Thighss Ohh Myy ' Stayy Focusedd . !"
+p350
+aS'Food ( :'
+p351
+aS'14 hours in school smh #TRIPPIN'
+p352
+aS"Whats up with these rude niggas &' why they think that everything comes so easy .  ."
+p353
+aS'A man goes into a library and asks for a book on suicide. The librarian says"fuck off", you wont bring it back.'
+p354
+aS'good things happen to those who wait.'
+p355
+aS'read between the lines.'
+p356
+aS"okayy WTF!!!! my mentions are blowing up with F4F? we don't do that."
+p357
+aS'hola.me is online'
+p358
+aS"thank you for the hello how are you doing and wassup. i'm doing grea.t i'm on youtube watching chris brown concerts bout to go to sleep lol"
+p359
+aS"Best friends are people who make your problems their problems, just so you don't have to go through them alone."
+p360
+aS"people are soo rude all they ask me is for shoutouts i can't even get a hello how are you? or a wassup?"
+p361
+aS'Call me old fashioned, but I actually take relationships seriously.'
+p362
+aS'say NO to dirty hoes.'
+p363
+aS'Love is blind and hope is dark.'
+p364
+aS'Love is science live for you die for you and I\x92ll die smiling.'
+p365
+aS'GOT A FACEBOOK? THEN GO LIKE IT http://twitition.com/qnaei -'
+p366
+aS'gun at your eyebrow...POW POW!'
+p367
+aS'soo freaked out! keep hearing noise and my dog is whroofing at the door :| :|'
+p368
+aS'#iftheworldendsonsaturday surprisingly this was used as a chat up line tongiht! ahah'
+p369
+aS'Had sucha good night! shame about work tomorrow tho.. http://twitpic.com/509sye http://twitpic.com/509t7o http://twitpic.com/509th2'
+p370
+aS'My sister and her prom date! such cuties xx http://twitpic.com/506nmg'
+p371
+aS"Little sister got her prom tonight! must admit im quite jealous.. doesn't seem long ago it was mine! :("
+p372
+aS'Work seemed too drag on forever today! but on the plus side i bought myself a nice little dress for tonight! :) :)'
+p373
+aS'Oh my some girls are wayyyy to desperate!'
+p374
+aS'My dog lol  http://t.co/BTzyuRA'
+p375
+aS"Paday my lil stalker won't leave me alone lmao go hind in a box ya lol"
+p376
+aS"Oyyy this iPod gots it's own mind it mental lolol"
+p377
+aS"Hey am I zoo in love lmaoo I mention to say I'm so in love lolol omg this iPod is fucked up lmaoo"
+p378
+aS"New pics blehh I'm bored  http://t.co/5LfJr1l http://t.co/ZprxFly http://t.co/2uQ8kDR"
+p379
+aS"Omgggg I'm zoo in love I found u finally you make you go oh oh oh oh omg haas man she snapped lol"
+p380
+aS"I'm bored ppl and it's only 9:30 what should I do Chaya serious buggie lol"
+p381
+aS'This is pretty bad I need more followers lol'
+p382
+aS"I'm Out Bitchz BBL Peace Love And Sodma Grease lol"
+p383
+aS'-Me, eating yogurt, and talking to my dog'
+p384
+aS"And I'd also do stuff for malaria and stuff"
+p385
+aS'I hope none of these haystacks are sharing needles'
+p386
+aS"What's the deal with Jerry Seinfeld? Did you ever notice he seems to start off all of his jokes in one of two ways?"
+p387
+aS"But I think she's stupid for marrying me, so I think we all know who won this argument"
+p388
+aS"Feels like there's not enough blood in my drugstream"
+p389
+aS"Things look 'a whole lot brighter in the morning' because of the sun"
+p390
+aS'Just found James Franco in the alley behind my apartment playing checkers with a pigeon'
+p391
+aS"When the moon hits your eye like a big pizza pie, that's LUNAR ASSAULT and it's not funny"
+p392
+aS'I bet the Presidential Seal gets to eat all the fish he wants'
+p393
+aS"April Fools' Day is probably the worst day ever to have a heart attack"
+p394
+aS"The detective said it was super fucking weird, but not illegal to rub Rogaine on my daughter's back every morning"
+p395
 a.
