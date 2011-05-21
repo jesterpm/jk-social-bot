@@ -91,8 +91,8 @@ if __name__ == '__main__':
             poster.friendships.destroy(id=user)
             poster.friendships.create(id=user)
           
-    for friend in friends: # adds all friends from friends.txt
-        follow_user(friend)
+    #for friend in friends: # adds all friends from friends.txt
+     #   follow_user(friend)
        
     while True:
         results = reader.search(q=username, since_id=lastid)['results']
@@ -121,18 +121,18 @@ if __name__ == '__main__':
                     print 'Last id replied = ', lastid
                     with open(lastid_filename, 'w') as f:
                         f.write(lastid)
-            time.sleep(30)         
+            time.sleep(1)         
         if (count == len(tweet)-1):
             count = 0
         print count 
         print tweet[count]
         #status_update(tweet[count]) # post a status update
         print 'Now sleeping... \n'
-        time.sleep(120) # set at 5min but is at 2min
-        print question[count] 
+        time.sleep(1) # set at 5min but is at 2min
+        #print question[count] 
         #status_update(question[count])
         print 'Now sleeping... \n' 
-        time.sleep(120) # set for 2min.
+        time.sleep(1) # set for 2min.
         # may want to add ask questions to friends too
         # Ask questions specific to followers
         connection = urllib2.urlopen('http://api.twitter.com/1/statuses/followers.json?screen_name=' + username)
@@ -149,12 +149,15 @@ if __name__ == '__main__':
         for x in range(len(friend_obj)):
             supfriend = friend_obj[x]
             friend_list.append(supfriend[u'screen_name'])
-        postnumber = count
+        if count == len(question):
+                postnumber = 0 
+        else: postnumber = count
         for follow_me in friend_list:
             if not (follow_me in following_list):
-                post = follow_me + ' ' + question[postnumber]     
+                print 'fix this'
+                #post = follow_me + ' ' + question[postnumber]     
                 #status_update(post) #May want to ask everyone questions regardless of friendship 
-                time.sleep(30)
+                time.sleep(1)
                 postnumber = postnumber + 1
             if (follow_me in following_list):#Left open if we want to make specific questions to friends
                 print follow_me 
