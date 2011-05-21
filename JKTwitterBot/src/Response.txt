@@ -1,10 +1,52 @@
 (lp0
-S'Lol.'
+S'Right on'
 p1
-aS'Sweet.'
+aS'sweet'
 p2
-aS'Right on.'
+aS'yeah'
 p3
-aS'You said it.'
+aS'you said it'
 p4
+aS'totally'
+p5
+aS'ok'
+p6
+aS'thanks'
+p7
+aS'you tell me'
+p8
+aS'what else'
+p9
+aS'that makes sense'
+p10
+aS'yeah baby'
+p11
+aS'no way'
+p12
+ag6
+aS'tell me more'
+p13
+aS'that sounds good'
+p14
+aS'whatever'
+p15
+aS'keep talking'
+p16
+ag9
+ag12
+aS'anything else'
+p17
+aS'I am listening'
+p18
+aS'please tell me more'
+p19
+ag17
+aS'what did you say'
+p20
+aS'really'
+p21
+aS'thank you'
+p22
+aS'maybe'
+p23
 a.
