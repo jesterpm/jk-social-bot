@@ -46,13 +46,16 @@ def status_update(outgoing_text):
         print '====> (TEST MODE) Resp =', outgoing_text
            
 def follow_user(user): 
-    try:
-        poster.friendships.create(id=user) 
-    except TwitterError as e:
-        print e
-        poster.friendships.destroy(id=user)
-        poster.friendships.create(id=user)
-
+    if not TEST_MODE:
+        try:
+            poster.friendships.create(id=user) 
+        except TwitterError as e:
+            print e
+            poster.friendships.destroy(id=user)
+            poster.friendships.create(id=user)
+    
+    else:
+        print '====> (TEST MODE) Following =', user 
      
 def reply_to_tweets():
     results = reader.search(q=username, since_id=lastid)['results']
