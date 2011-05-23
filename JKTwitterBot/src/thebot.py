@@ -7,6 +7,8 @@ http://blog.vivekhaldar.com/post/2830035130/how-to-write-a-twitter-bot-in-python
 Modified by: Karl, Jesse
 '''
 
+from datetime import datetime
+from random import random
 from twitter.api import Twitter, TwitterError
 from twitter.oauth import OAuth, read_token_file
 from optparse import OptionParser
@@ -73,7 +75,8 @@ def reply_to_tweets():
             print '====> No response (%s < %s)' % (msgid, lastid)
         else:
             # Found a tweet directed to us.
-            usedoctor = True
+            # Should we use Eliza? 
+            usedoctor = random() > 0.33
             
             if usedoctor:
                 doctor_response = doctor.respond(incoming_text.strip())
@@ -198,9 +201,16 @@ if __name__ == '__main__':
     
     # commented out so all friends are not added 
     #for friend in friends: # adds all friends from friends.txt
-    #    follow_user(friend)
+    #   follow_user(friend)
        
     while True:
+        # We sleep between midnight at 6 am.
+        hour = datetime.now().hour
+        if hour < 6:
+            # Sleep until 6 am.
+            time.sleep((6 - hour) * 3600)
+        
+    
         # Reply to tweets directed to us
         reply_to_tweets()
         
@@ -221,4 +231,4 @@ if __name__ == '__main__':
         print 'Now sleeping... \n' 
         time.sleep(1) # set for 2min.
         
-        ask_questions()     
+        ask_questions()
