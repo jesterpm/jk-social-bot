@@ -2,6 +2,7 @@
 Created on May 9, 2011
 
 Based on the_shrink.py, by Vivek Halder:
+using a cheezy little Eliza knock-off by Joe Strout <joe@strout.net>
 http://blog.vivekhaldar.com/post/2830035130/how-to-write-a-twitter-bot-in-python
 
 Modified by: Karl, Jesse
