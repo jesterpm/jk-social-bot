@@ -58,6 +58,7 @@ def follow_user(user):
         print '====> (TEST MODE) Following =', user 
      
 def reply_to_tweets():
+    lastid = ''
     results = reader.search(q=username, since_id=lastid)['results']
     for result in reversed(results):
         asker = result['from_user']
@@ -84,6 +85,7 @@ def reply_to_tweets():
                 
             print '====> Resp = %s' % outgoing_text
             try:
+                print outgoing_text
                 status_update(outgoing_text)
                 
             except TwitterError as e:
@@ -122,7 +124,8 @@ def ask_questions():
     
     for follow_me in friend_list:
         if not (follow_me in following_list):
-            post = follow_me + ' ' + question[postnumber]     
+            post = follow_me + ' ' + question[postnumber] 
+            #print post    
             #status_update(post) #May want to ask everyone questions regardless of friendship 
             time.sleep(1)
             postnumber = postnumber + 1
@@ -195,7 +198,7 @@ if __name__ == '__main__':
     
     # commented out so all friends are not added 
     #for friend in friends: # adds all friends from friends.txt
-     #   follow_user(friend)
+    #    follow_user(friend)
        
     while True:
         # Reply to tweets directed to us
@@ -204,6 +207,7 @@ if __name__ == '__main__':
         # Send out a generic tweet
         print count 
         status_update(tweet[count]) # post a status update
+        print tweet[count]
         count = (count + 1) % len(tweet);
         
         # Sleep for a bit to add some realism.
@@ -212,12 +216,9 @@ if __name__ == '__main__':
         
         # Pose a question
         status_update(question[count])
-        
+        print question[count]
         # Sleep for a bit to add some realism.
         print 'Now sleeping... \n' 
         time.sleep(1) # set for 2min.
         
         ask_questions()     
-        
-        
-   
