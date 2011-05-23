@@ -188,13 +188,13 @@ if __name__ == '__main__':
         domain='api.twitter.com')
     
     "All files need to be the same length as public_Status_update_File"
-    with open(public_Status_update_File, 'r') as f:
+    with open(public_Status_update_File, 'rb') as f:
         tweet = pickle.load(f)
-    with open(questions_status_update_File, 'r') as f:
+    with open(questions_status_update_File, 'rb') as f:
         question = pickle.load(f)
-    with open(Response_File, 'r') as f:
+    with open(Response_File, 'rb') as f:
         response = pickle.load(f)
-    with open(make_Friends_File, 'r') as f:
+    with open(make_Friends_File, 'rb') as f:
         friends = pickle.load(f) 
          
     # Prepare Eliza (code from the_shrink.py)
