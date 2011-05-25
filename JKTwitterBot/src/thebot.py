@@ -27,7 +27,7 @@ CONSUMER_SECRET='MEYTOS97VvlHX7K1rwHPEqVpTSqZ71HtvoK4sVuYk'
 # instead of tweeted.
 TEST_MODE = True
 
-DEFAULT_USERNAME = 'ziggster00' # "this will need to be changed"
+DEFAULT_USERNAME = 'ziggster00'#'MoreJennifer' 
 DEFAULT_AUTH_FILENAME = '.twitter_oauth'
 DEFAULT_LASTID_FILENAME = '.twitter_lastid'
 Response_File = 'Response.txt'
@@ -89,7 +89,7 @@ def reply_to_tweets():
                 
             print '====> Resp = %s' % outgoing_text
             try:
-                print outgoing_text
+                #print outgoing_text
                 status_update(outgoing_text)
                 
             except TwitterError as e:
@@ -102,7 +102,7 @@ def reply_to_tweets():
                     f.write(lastid)
                     
         # Sleep for a second
-        time.sleep(1)
+        time.sleep(30)
         
         
 def ask_questions():
@@ -131,7 +131,7 @@ def ask_questions():
             post = follow_me + ' ' + question[postnumber] 
             #print post    
             #status_update(post) #May want to ask everyone questions regardless of friendship 
-            time.sleep(1)
+            #time.sleep(30)
             postnumber = postnumber + 1
         if (follow_me in following_list):#Left open if we want to make specific questions to friends
             print follow_me 
@@ -201,8 +201,8 @@ if __name__ == '__main__':
     doctor = eliza.eliza()
     
     # commented out so all friends are not added 
-    #for friend in friends: # adds all friends from friends.txt
-    #   follow_user(friend)
+    for friend in friends: # adds all friends from friends.txt
+        follow_user(friend)
        
     while True:
         # We sleep between midnight at 6 am.
@@ -218,18 +218,18 @@ if __name__ == '__main__':
         # Send out a generic tweet
         print count 
         status_update(tweet[count]) # post a status update
-        print tweet[count]
+        #print tweet[count]
         count = (count + 1) % len(tweet);
         
         # Sleep for a bit to add some realism.
         print 'Now sleeping... \n'
-        time.sleep(1) # set at 5min but is at 2min
+        time.sleep(30*60) # set at 5min but is at 2min
         
         # Pose a question
         status_update(question[count])
-        print question[count]
+        #print question[count]
         # Sleep for a bit to add some realism.
         print 'Now sleeping... \n' 
-        time.sleep(1) # set for 2min.
+        time.sleep(30*60) # set for 2min.
         
-        ask_questions()
+        #ask_questions()
