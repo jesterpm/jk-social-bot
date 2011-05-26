@@ -9,7 +9,7 @@ Modified by: Karl, Jesse
 '''
 
 from datetime import datetime
-from random import random
+import random
 from twitter.api import Twitter, TwitterError
 from twitter.oauth import OAuth, read_token_file
 from optparse import OptionParser
@@ -27,7 +27,7 @@ CONSUMER_SECRET='MEYTOS97VvlHX7K1rwHPEqVpTSqZ71HtvoK4sVuYk'
 # instead of tweeted.
 TEST_MODE = True
 
-DEFAULT_USERNAME = 'ziggster00'#'MoreJennifer' 
+DEFAULT_USERNAME = 'tcss435test'#'MoreJennifer' 
 DEFAULT_AUTH_FILENAME = '.twitter_oauth'
 DEFAULT_LASTID_FILENAME = '.twitter_lastid'
 Response_File = 'Response.txt'
@@ -36,6 +36,7 @@ questions_status_update_File = 'question_status.txt'
 make_Friends_File = 'friends.txt'
 count = 0 
 response_count = 0 
+question_count = 0
 
 def status_update(outgoing_text):  
     if not TEST_MODE:
@@ -77,7 +78,7 @@ def reply_to_tweets():
         else:
             # Found a tweet directed to us.
             # Should we use Eliza? 
-            usedoctor = random() > 0.33
+            usedoctor = random.random() > 0.33
             
             if usedoctor:
                 doctor_response = doctor.respond(incoming_text.strip())
@@ -102,42 +103,33 @@ def reply_to_tweets():
                     f.write(lastid)
                     
         # Sleep for a second
-        time.sleep(30)
+        oursleep(30)
         
-        
-def ask_questions():
+
+def pose_question(question):
     # may want to add ask questions to friends too
     # Ask questions specific to followers
-    connection = urllib2.urlopen('http://api.twitter.com/1/statuses/followers.json?screen_name=' + username)
-    friendship = urllib2.urlopen('http://api.twitter.com/1/statuses/friends.json?screen_name=' + username)
-    following_str = connection.read()
-    following_obj = json.loads(following_str)        
-    friend_str = friendship.read()
+    following = urllib2.urlopen('http://api.twitter.com/1/statuses/friends.json?screen_name=' + username)
+    friend_str = following.read()
     friend_obj = json.loads(friend_str)
-    following_list = []
     friend_list = []
-    for i in range(len(following_obj)):
-        followers = following_obj[i]
-        following_list.append(followers[u'screen_name'])
     for x in range(len(friend_obj)):
         supfriend = friend_obj[x]
         friend_list.append(supfriend[u'screen_name'])
-    if count == len(question):
-            postnumber = 0 
-    else: postnumber = count
     
-    for follow_me in friend_list:
-        if not (follow_me in following_list):
-            post = follow_me + ' ' + question[postnumber] 
-            #print post    
-            #status_update(post) #May want to ask everyone questions regardless of friendship 
-            #time.sleep(30)
-            postnumber = postnumber + 1
-        if (follow_me in following_list):#Left open if we want to make specific questions to friends
-            print follow_me 
-        if postnumber == len(question):
-            postnumber = 0
+    victim = random.choice(friend_list)
+
+    tweet = '@%s %s' % (victim, question)
+
+    status_update(tweet)
+
             
+def oursleep(amt):
+    if TEST_MODE:
+        time.sleep(5)
+
+    else:
+        time.sleep(amt)
             
             
 #########################
@@ -187,7 +179,7 @@ if __name__ == '__main__':
         api_version='1',
         domain='api.twitter.com')
     
-    "All files need to be the same length as public_Status_update_File"
+    # Open files of tweets and friends
     with open(public_Status_update_File, 'rb') as f:
         tweet = pickle.load(f)
     with open(questions_status_update_File, 'rb') as f:
@@ -199,9 +191,9 @@ if __name__ == '__main__':
          
     # Prepare Eliza (code from the_shrink.py)
     doctor = eliza.eliza()
-    
-    # commented out so all friends are not added 
-    for friend in friends: # adds all friends from friends.txt
+
+    # adds all friends from friends.txt
+    for friend in friends: 
         follow_user(friend)
        
     while True:
@@ -209,7 +201,7 @@ if __name__ == '__main__':
         hour = datetime.now().hour
         if hour < 6:
             # Sleep until 6 am.
-            time.sleep((6 - hour) * 3600)
+            oursleep((6 - hour) * 3600)
         
     
         # Reply to tweets directed to us
@@ -218,18 +210,17 @@ if __name__ == '__main__':
         # Send out a generic tweet
         print count 
         status_update(tweet[count]) # post a status update
-        #print tweet[count]
         count = (count + 1) % len(tweet);
         
         # Sleep for a bit to add some realism.
         print 'Now sleeping... \n'
-        time.sleep(30*60) # set at 5min but is at 2min
+        oursleep(5 * 60)
         
         # Pose a question
-        status_update(question[count])
-        #print question[count]
+        pose_question(question[question_count])
+        question_count = (question_count + 1) % len(question);
+
         # Sleep for a bit to add some realism.
         print 'Now sleeping... \n' 
-        time.sleep(30*60) # set for 2min.
+        oursleep(25*60)
         
-        #ask_questions()
