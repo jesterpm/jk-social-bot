@@ -1,298 +1,524 @@
 (lp0
-S'Suprising how unfit you get when u dont run for a few of weeks'
+S"Donald Duck comics were banned from Finland because he doesn't wear pants"
 p1
-aS'"Danger: Avoid death" and other wacky warning labels. Slide show. http://is.gd/kFagtP'
+aS'The Basenji is the world\xe2\x80\x99s only barkless dog'
 p2
-aS'listening to an instrumental track of "my heart will go on" #yeaitshappening'
+aS"Every time you lick a stamp, you're consuming 1/10 of a calorie."
 p3
-aS'That super clean feeling when you get out the shower #thebest'
-p4
-aS'John Mayer <3'
-p5
-aS'CNN on sci-tech-eng-math dropouts: http://is.gd/rOxTzR Resilient, persistent students succeed. Giving up on "hard" majors is too acceptable.'
-p6
-aS"Hope today's a good day :)"
-p7
-aS'Just overheard two girls talking,"they give this stuff to like homeless people!" "o my gosh I love homeless people!!!" #justloveditsygirls'
-p8
-aS"Documentary on walt Disney's life,  now Indian in the cupboard.... I've seen both of these before #familytime #oldmemories"
-p9
-aS'Emergency pet care now done in Peterborough http://bit.ly/kGaXnL'
-p10
-aS'Is good day!'
-p11
-aS'Slowly but surely going back blonde :D'
-p12
-aS'The long coated Yorkshire Terrier breed: There must be a lot of things worth to know about the Yorkshire Terrier... http://bit.ly/iRyW51'
-p13
-aS'May is National Bike Month, go out and ride a couple miles'
-p14
-aS'So we meet again!'
-p15
-aS'How many people can video chat on FREE version of Skype at one time?'
-p16
-aS"i hate looking at cute clothes i can't buy"
-p17
-aS'Tips about the Shih Tzu dogs: The Shih Tzu breed has dogs in small sizes: their height measures 8 inches and up ... http://bit.ly/jBNcXd'
-p18
-aS'Patience is the companion of wisdom - St. Augustine.'
-p19
-aS"You know he's tired when he sleeps next to flip flops and cables! :) http://instagr.am/p/D-rVU/"
-p20
-aS'Food ( :'
-p21
-aS'I was just looking for someone in my chat list and discovered I had blocked him. Thought the Newbie had been quiet lately! Oops.'
-p22
-aS"Donald Duck comics were banned from Finland because he doesn't wear pants"
-p23
-aS'-Me, eating yogurt, and talking to my dog'
-p24
-aS'My dog lol  http://t.co/BTzyuRA'
-p25
-aS'Going to go to sleep :)'
-p26
-aS'The oldest commercially marketed carbonated drink was Moxie, which became available in apothecaries as a medical tonic in 1876'
-p27
-aS'If the gods are watching, the very least we can do is be entertaining'
-p28
-aS"Even tho I don't like figuring out watches I want a pretty one lol all white with crystals. For fashion. Ill look at my fone for the time"
-p29
 aS'"where is your wife Sir?" "i think shes dead too."'
-p30
-aS"LA North Central shelter is overcrowded & countless dogs will be put down this weekend. Please adopt if you're able! http://on.fb.me/lpbLiY"
-p31
-aS'The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.'
-p32
+p4
+aS'Nose prints are used to identify dogs, just like humans use fingerprints.'
+p5
+aS"Einstein couldn't speak fluently when he was nine. His parents thought he might be retarded."
+p6
 aS'People say happiness takes time, so ima just wait.'
-p33
-aS'It is physically impossible for pigs to look up into the sky'
-p34
-aS'Prettiest "bear" ever! http://picplz.com/rs0n'
-p35
-aS'Prevent bad breath in dogs, by you you the best dental care: Many people around the world own dogs, because they... http://bit.ly/jvYxhC'
-p36
-aS'A dog is the only thing on earth that loves you more than he loves himself.'
-p37
-aS'House is going all 127 Hours on me... #sick #canthandleit'
-p38
-aS"Body's Healing Power Used To Cure Dogs, Cats http://bit.ly/kqU9nF"
-p39
-aS'Call me old fashioned, but I actually take relationships seriously.'
-p40
-aS'Rain, rain. Go away..'
-p41
-aS"Was to be a working long weekend for me, but my printer is out of toner, and I've been told I can't have a new one till first of next week."
-p42
-aS'Having fun at the Cordillera Ranch Shindig!  http://instagr.am/p/Dutua/'
-p43
-aS'we need some rain, our deserts are drying up ;o'
-p44
-aS'The characters Bert & Ernie on Sesame Street were named after Bert the cop & Ernie the taxi driver in Frank Capra\'s "Its A Wonderful Life"'
-p45
-aS'5 people in first period...'
-p46
-aS'Animals that lay eggs don\x92t have belly buttons.'
-p47
-aS'All my neighbors are sitting outside for a smoke. I find this amusing.'
-p48
-aS'A pregnant goldfish is called a twit.'
-p49
-aS'so tired... and it will be another busy weekend. Longing for a weekend where I can actually relax! #tootiredtothink'
-p50
-aS"This is what happens every time I have a meeting at Kate's Frosting... Yum! http://instagr.am/p/C7INn/"
-p51
-aS'Finally getting the hang of twitter .. :D'
-p52
-aS'"I worry for young girls sometimes; I want them to feel they can be sassy, weird, geeky, smart, independent, not so withered and shriveled"'
-p53
-aS"Couldn't study in the union because of the very loud mexican fiesta music. Never been so happy to be interrupted :)"
-p54
-aS'Emergency preparedness materials from the US CDC on Zombie preparedness. No kidding. http://is.gd/M4P1PK'
-p55
-aS'Forgot how ridiculous driving in branson is... #weirdesttownever #ijustwanttacobell'
-p56
-aS"You're as weak as the hearts you break."
-p57
-aS'I get home from buying Kinect to find Mexican food waiting for me'
-p58
-aS'the school is so quiet!'
-p59
-aS"April Fools' Day is probably the worst day ever to have a heart attack"
-p60
-aS'brain full. no more room in brain. #actionstudio'
-p61
-aS'OK. go!'
-p62
-aS'Some people are merely alive because it is against the law to kill them'
-p63
-aS'The \x91Oz\x92 in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z, hence "Oz."'
-p64
-aS'soo freaked out! keep hearing noise and my dog is whroofing at the door :| :|'
-p65
-aS"Am I the only one that's glad that the ~hipster~ trend is dead now?"
-p66
-aS'To the market, then to the garden.'
-p67
-aS'never. a. dull. moment.'
-p68
-aS'Work seemed too drag on forever today! but on the plus side i bought myself a nice little dress for tonight! :) :)'
-p69
-aS'awe just found out my puppys brother died yesturday :/ How sad &lt;||3'
-p70
-aS'In the last 4,000 years, no new animals have been domesticated'
-p71
-aS"There's fireworks. The flatulent dog is cowering under me. Awesome."
-p72
-aS"I'm texting &walking my dog &walk into a puddle that soaked my entire left foot. -.-"
-p73
-aS"Little sister got her prom tonight! must admit im quite jealous.. doesn't seem long ago it was mine! :("
-p74
-aS'Off to bed... long day tomorrow. Have a good one all! Sweet Dreams!'
-p75
-aS'Really missing #nbcCommunity tonight. Michael Scott, too. #TheOffice'
-p76
-aS"Do people not know that Selena has saved almost 10 dogs from dying? She's one of the biggest animal lovers... http://tumblr.com/x7r2lzoq8e"
-p77
-aS"The first product to have a bar code scanned was Wrigley's gum"
-p78
-aS"Monday's child is fair of face, Tuesday's child is full of grace. Wednesday's child is full of woe, Thursday's child has far to go."
-p79
-aS'I bet the Presidential Seal gets to eat all the fish he wants'
-p80
-aS"Cinko's lazy Sunday watching TV.  http://instagr.am/p/ETmNz/"
-p81
-aS"precious old man just talked to me in starbucks for an hour, told me all abt his songs & children's stories #whoknows? #couldbejesus"
-p82
-aS'Had Thai for dinner. Full to my eyeballs.'
-p83
-aS'The average person falls asleep in seven minutes.'
-p84
-aS'Trimmed the hedges of my house for the first time ever. I may not have a future in landscaping but at least they  http://instagr.am/p/DIG_j/'
-p85
-aS'Its so hot out'
-p86
-aS'I love tv'
-p87
-aS"my mom just bought a golf ball monogrammer for 50 cents at a thrift store... ??? she's excited, i'm confused #storyofmylife #welcomehome"
-p88
-aS"we'll never run, away, so stand and fight another day"
-p89
-aS'In most advertisements, including newspapers, the time displayed on a watch is 10:10.'
-p90
-aS'#nw kitchen nightmares'
-p91
-aS'Why is it that my time in New York consists of sleeping and eating at the sheraton and walking through the airport! :('
-p92
-aS'A sneeze can travel as fast as 100 miles per hour'
-p93
-aS'Random fact: There are 53 sessions at #iste11 that use the word "ipad" as a key word.'
-p94
-aS"You know you're texting too much when your dog taps your hand with his paw to get you to stop and pay attention to him. :)"
-p95
-aS'What should you and your dog should not fed: Ever wondered whether you are feeding your dog the right foods? Her... http://bit.ly/k547NT'
-p96
-aS'BORED.'
-p97
-aS'The Labrador Retriever puppy: Dogs, which suited would make an animal companion, but that is Labrador perfectly ... http://bit.ly/lxZsfq'
-p98
-aS'good thing dogs dont talk, i would be in too much trouble'
-p99
-aS'Awesome. Feral parakeets. http://is.gd/PeePZm'
-p100
-aS'Cynic: A person who has an accurate view of the world. Optimist: A cynic in the making. Pessimist: A cynic with a vivid memory'
-p101
-aS'Potentially dangerous dog treats recalled http://bit.ly/jgPcJ1'
-p102
-aS'In in the front yard cleaning my fountain and peeps honk a hi and wave.'
-p103
-aS'Saw a random boy wearing a guy Harvey kappa shirt!! #proudmama'
-p104
-aS'My dog has a lazy eye lol'
-p105
-aS'The day you decide to do it, is your lucky day'
-p106
-aS"Things look 'a whole lot brighter in the morning' because of the sun"
-p107
-aS'Sink your teeth into dog bite prevention http://bit.ly/moqWcT'
-p108
-aS'Rediscovering my deep affection for country music'
-p109
-aS"What's the deal with Jerry Seinfeld? Did you ever notice he seems to start off all of his jokes in one of two ways?"
-p110
-aS"Beautiful day and I'm inside. Such a shame"
-p111
-aS'I hate the feeling of being really really tired ! #sucks'
-p112
-aS'Alexander the Great was an epileptic.'
-p113
-aS'Traditional Art: Renewable energy world http://t.co/TzTb7Lz'
-p114
-aS'Zzzzz'
-p115
-aS'Remarks by the President, CIA Director Leon Panetta, and DNI Director James Clapper to the Intelligence Communit... http://bit.ly/kIRCYd'
-p116
-aS"The dog is flatulent. And it's dreadful. Ugh."
-p117
-aS'Oh my some girls are wayyyy to desperate!'
-p118
-aS"Best friends are people who make your problems their problems, just so you don't have to go through them alone."
-p119
-aS'Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.'
-p120
-aS'I wish Capri suns were bigger!'
-p121
-aS"It is impossible to sneeze and keep one's eyes open at the same time. (Try it!)"
-p122
-aS'thats pizza was yum [:'
-p123
-aS'Some tips about the Labrador dogs: The very popular Labrador search race many dog lovers. Before but this breed ... http://bit.ly/lj5Wr4'
-p124
-aS'There are 336 dimples on a regulation golf ball.'
-p125
-aS'Who let the dogs out???'
-p126
-aS'My sister and her prom date! such cuties xx http://twitpic.com/506nmg'
-p127
-aS"It's senior skip day or something like that."
-p128
-aS'\x93Luck is what happens when preparation meets opportunity.\x94'
-p129
-aS'Pet Health Check-Up: Most Common Dog, Cat Diseases Revealed http://bit.ly/lhFyrQ'
-p130
-aS'my dog really think he a baby, smh.  http://twitpic.com/50anm3'
-p131
-aS"If you're embarrassed to be a fan of something, then you're not a fan. Grow some balls."
-p132
-aS'Listening to music and playing angry birds all first period :)'
-p133
-aS"Don't ask for advice if your not gonna use it!"
-p134
-aS'good things happen to those who wait.'
-p135
-aS'The man who smiles when things go wrong has thought of someone to blame it on'
-p136
-aS'Redbud and a flowering plum in bloom at my house.  http://twitpic.com/506eu9'
-p137
+p7
 aS'my dog is playing with #ANTS , ugh no life -__-'
-p138
-aS"Just saved my dog's life. Seriously. He had a stick wedged in the roof of his mouth. He's fine. I'm still shaken up."
-p139
-aS'Phone charger and MacB charger in my locker at law school'
-p140
-aS'Where is my beach? I miss it! I need my swim to keep me fit and happy'
-p141
-aS'A full seven percent of the entire Irish barley crop goes to the production of Guinness beer.'
-p142
-aS'Europeans in the Middle Ages used to call coffee the Arabic Wine'
-p143
+p8
+aS'Random fact: There are 53 sessions at #iste11 that use the word "ipad" as a key word.'
+p9
+aS"my mom just bought a golf ball monogrammer for 50 cents at a thrift store... ??? she's excited, i'm confused #storyofmylife #welcomehome"
+p10
+aS'A lost Dachshund was found swallowed whole in the stomach of a giant catfish in Berlin on July 2003.'
+p11
+aS"The dog is flatulent. And it's dreadful. Ugh."
+p12
+aS'My dog lol  http://t.co/BTzyuRA'
+p13
+aS"Documentary on walt Disney's life,  now Indian in the cupboard.... I've seen both of these before #familytime #oldmemories"
+p14
+aS'There are almost 5 million dog bites per year; children are the main victims. Dog bites cause losses of over $1 billion a year.'
+p15
+aS"Cinko's lazy Sunday watching TV.  http://instagr.am/p/ETmNz/"
+p16
+aS'Zorba, an English mastiff, is the biggest dog ever recorded. He weighed 343 pounds and measured 8\' 3" from his nose to his tail.'
+p17
+aS'Pet Health Check-Up: Most Common Dog, Cat Diseases Revealed http://bit.ly/lhFyrQ'
+p18
+aS'Dogs and humans are the only animals with prostates.'
+p19
+aS'Dogs have sweat glands in between their their paws'
+p20
+aS"Even if you cut off a cockroach's head, it can live for several weeks."
+p21
+aS'Suprising how unfit you get when u dont run for a few of weeks'
+p22
+aS'Rediscovering my deep affection for country music'
+p23
+aS'Dog nose prints are as unique as human finger prints and can be used to identify them.'
+p24
+aS'House is going all 127 Hours on me... #sick #canthandleit'
+p25
+aS'The name of the dog on the Cracker Jacks box is Bingo. The Taco Bell Chihuahua is a rescued dog named Gidget.'
+p26
+aS'Forgot how ridiculous driving in branson is... #weirdesttownever #ijustwanttacobell'
+p27
+aS"During your lifetime, you'll eat about 60,000 pounds of food, that's the weight of about 6 elephants."
+p28
+aS"If you're embarrassed to be a fan of something, then you're not a fan. Grow some balls."
+p29
+aS'A 50,000 year old cave painting in Europe seems to show a dog-like animal hunting with men.'
+p30
+aS'The Labrador Retriever puppy: Dogs, which suited would make an animal companion, but that is Labrador perfectly ... http://bit.ly/lxZsfq'
+p31
+aS'Humans have kept dogs as pets for over 12,000 years'
+p32
+aS"i hate looking at cute clothes i can't buy"
+p33
+aS'Did you know that there are coffee flavored PEZ?'
+p34
+aS'Hang On Sloopy is the official rock song of Ohio.'
+p35
+aS'Call me old fashioned, but I actually take relationships seriously.'
+p36
+aS'Dogs with big, square heads and large ears (like the Saint Bernard) are the best at hearing subsonic sounds.'
+p37
+aS'I love tv'
+p38
+aS"Studies show that some dogs can detect cancer by smelling a person's breath"
+p39
+aS'Its so hot out'
+p40
+aS'Dalmatians are completely white at birth.'
+p41
+aS'Apple and pear seeds contain arsenic, which may be deadly to dogs.'
+p42
+aS'Potentially dangerous dog treats recalled http://bit.ly/jgPcJ1'
+p43
+aS'Really missing #nbcCommunity tonight. Michael Scott, too. #TheOffice'
+p44
+aS'I bet the Presidential Seal gets to eat all the fish he wants'
+p45
+aS'Dogs have sweat glands in between their paws.'
+p46
+aS'It is much easier for dogs to learn spoken commands if they are given in conjunction with hand signals or gestures.'
+p47
+aS'brain full. no more room in brain. #actionstudio'
+p48
+aS'Petting dogs is proven to lower blood pressure of dog owners.'
+p49
+aS'A dog most likely interprets a smiling person as baring their teeth, which is an act of aggression.'
+p50
+aS'My sister and her prom date! such cuties xx http://twitpic.com/506nmg'
+p51
+aS'BORED.'
+p52
+aS'If never spayed or neutered, a female dog, her mate, and their puppies could product over 66,000 dogs in 6 years!'
+p53
+aS'Dogs are mentioned 14 times in the Bible, but domestic cats are not mentioned at all.'
+p54
 aS'Pool time! Sun bathing time! http://instagr.am/p/DCEZe/'
-p144
-aS"That scene in the sixth sense where Cole gets locked in the closet is the reason why I don't like most kids."
-p145
-aS'The ideal time to dog obedience start to correct training behavior problems: The time, to dog training must star... http://bit.ly/kUkar1'
-p146
+p55
+aS'Why is it that my time in New York consists of sleeping and eating at the sheraton and walking through the airport! :('
+p56
+aS'Plato once said that \xe2\x80\x9da dog has the soul of a philosopher\xe2\x80\x9d'
+p57
+aS'my dog really think he a baby, smh.  http://twitpic.com/50anm3'
+p58
+aS'Work seemed too drag on forever today! but on the plus side i bought myself a nice little dress for tonight! :) :)'
+p59
+aS"The World's first dog show took place in Great Britain in 1859."
+p60
+aS'Cynic: A person who has an accurate view of the world. Optimist: A cynic in the making. Pessimist: A cynic with a vivid memory'
+p61
+aS'At the end of WWI, the German government trained the first guide dogs for war-blinded soldiers.'
+p62
+aS'The Basenji is the world\xe2\x80\x99s only barkless dog.'
+p63
+aS"A dog's heartbeat is 70-120 times per minute."
+p64
+aS'If the gods are watching, the very least we can do is be entertaining'
+p65
+aS'To the market, then to the garden.'
+p66
+aS'Just overheard two girls talking,"they give this stuff to like homeless people!" "o my gosh I love homeless people!!!" #justloveditsygirls'
+p67
+aS"Hershey's Kisses are called that because the machine that makes them looks like it's kissing the conveyor belt."
+p68
+aS'The coyote is a member of the dog family and its scientific name, "canis latrans" means barking dog.'
+p69
+aS'"Dreamt" is the only English word that ends in the letters "mt."'
+p70
+aS'Listening to music and playing angry birds all first period :)'
+p71
+aS'I hate the feeling of being really really tired ! #sucks'
+p72
+aS"Body's Healing Power Used To Cure Dogs, Cats http://bit.ly/kqU9nF"
+p73
+aS"Dogs can't see colors. They're color blind. (Although some say that they can differentiate many colors)."
+p74
+aS'The average person falls asleep in seven minutes.'
+p75
+aS'The earliest European images of dogs are found in cave paintings dating back 12,000 years ago in Spain.'
+p76
+aS'"I worry for young girls sometimes; I want them to feel they can be sassy, weird, geeky, smart, independent, not so withered and shriveled"'
+p77
+aS'Most experts believe humans domesticated dogs before donkeys, horses, sheep, goats, cattle, cats, or chickens.'
+p78
+aS'The Dalmatian is the only dog that gets gout.'
+p79
+aS'good thing dogs dont talk, i would be in too much trouble'
+p80
+aS'John Mayer <3'
+p81
+aS'-Me, eating yogurt, and talking to my dog'
+p82
+aS'The American Kennel Club, the most influential dog club in the United States, was founded in 1884.'
+p83
+aS'Touch is the first sense the dog develops. The entire body, including the paws, is covered with touch-sensitive nerve endings.'
+p84
+aS'Hydroxydesoxycorticosterone and hydroxydeoxycorticosterones are the largest anagrams.'
+p85
+aS"Hope today's a good day :)"
+p86
 aS"Strangley enough, I'm having trouble coming up with a billion dollar idea that would innovate the world of technology"
+p87
+aS'I was just looking for someone in my chat list and discovered I had blocked him. Thought the Newbie had been quiet lately! Oops.'
+p88
+aS'The shape of a dog\xe2\x80\x99s face can help predict how long a dog will live'
+p89
+aS'Animals that lay eggs don\x92t have belly buttons.'
+p90
+aS'thats pizza was yum [:'
+p91
+aS'Cats have over one hundred vocal sounds, while dogs only have about ten.'
+p92
+aS'A pregnant goldfish is called a twit.'
+p93
+aS'Fortune cookies were actually invented in America, in 1918, by Charles Jung.'
+p94
+aS'Eighteen muscles or more can move a dog\xe2\x80\x99s ear.'
+p95
+aS'The oldest breed of dog is the Saluki.'
+p96
+aS'Bloodhound dogs have a keen sense of smell and have been used since the Middle Ages to track criminals'
+p97
+aS'Every person has a unique tongue print.'
+p98
+aS'Honeybees have hair on their eyes.'
+p99
+aS'never. a. dull. moment.'
+p100
+aS'Dogs and cats consume almost $7 billion worth of pet food a year.'
+p101
+aS'Prevent bad breath in dogs, by you you the best dental care: Many people around the world own dogs, because they... http://bit.ly/jvYxhC'
+p102
+aS'Dolphins sleep with one eye open.'
+p103
+aS'The long coated Yorkshire Terrier breed: There must be a lot of things worth to know about the Yorkshire Terrier... http://bit.ly/iRyW51'
+p104
+aS'awe just found out my puppys brother died yesturday :/ How sad &lt;||3'
+p105
+aS"I'm texting &walking my dog &walk into a puddle that soaked my entire left foot. -.-"
+p106
+aS'The most dogs ever owned by one person were 5,000 Mastiffs owned by Kubla Khan.'
+p107
+aS'How many people can video chat on FREE version of Skype at one time?'
+p108
+aS"Best friends are people who make your problems their problems, just so you don't have to go through them alone."
+p109
+aS"A dog's pregnancy is 60 Days."
+p110
+aS"we'll never run, away, so stand and fight another day"
+p111
+aS'The world\'s smallest dog is the Chihuahua, which means "tiny dog in the sky."'
+p112
+aS'Is good day!'
+p113
+aS'Emergency pet care now done in Peterborough http://bit.ly/kGaXnL'
+p114
+aS'In most advertisements, including newspapers, the time displayed on a watch is 10:10.'
+p115
+aS'Dueling is legal in Paraguay as long as both parties are registered blood donors.'
+p116
+aS'Dogs have a wet nose to collect more of the tiny droplets of smelling chemicals in the air.'
+p117
+aS'There are 336 dimples on a regulation golf ball.'
+p118
+aS'Dog nose prints are as unique as human fingerprints'
+p119
+aS'Going to go to sleep :)'
+p120
+aS'Tips about the Shih Tzu dogs: The Shih Tzu breed has dogs in small sizes: their height measures 8 inches and up ... http://bit.ly/jBNcXd'
+p121
+aS'The grief suffered after a pet dog dies can be the same as that experienced after the death of a person.'
+p122
+aS'The oldest commercially marketed carbonated drink was Moxie, which became available in apothecaries as a medical tonic in 1876'
+p123
+aS'Eskimo ice cream is neither icy, or creamy.'
+p124
+aS'I get home from buying Kinect to find Mexican food waiting for me'
+p125
+aS'Twenty five percent of dogs that enter local shelters are purebred.'
+p126
+aS'Golden Retrievers may improve a person\xe2\x80\x99s chance of attracting a date'
+p127
+aS'CNN on sci-tech-eng-math dropouts: http://is.gd/rOxTzR Resilient, persistent students succeed. Giving up on "hard" majors is too acceptable.'
+p128
+aS'About one family in three owns a dog.'
+p129
+aS'Europeans in the Middle Ages used to call coffee the Arabic Wine'
+p130
+aS'In the last 4,000 years, no new animals have been domesticated'
+p131
+aS'I wish Capri suns were bigger!'
+p132
+aS"A dog's smell is estimated at 1 million times better than humans."
+p133
+aS'The most popular dog breed in Canada, U.S., and Great Britain is the Labrador retriever.'
+p134
+aS'Countess Karlotta Libenstein of Germany left approximately $106 million to her Alsatin, Gunther III, when she died in 1992.'
+p135
+aS'Dogs have lived with humans for over 14,000 years. Cats have lived with people for only 7,000 years.'
+p136
+aS"Was to be a working long weekend for me, but my printer is out of toner, and I've been told I can't have a new one till first of next week."
+p137
+aS'A puppy is born blind, deaf, and toothless.'
+p138
+aS"That scene in the sixth sense where Cole gets locked in the closet is the reason why I don't like most kids."
+p139
+aS'One female dog and her female children could produce 4,372 puppies in seven years.'
+p140
+aS'Phone charger and MacB charger in my locker at law school'
+p141
+aS'What should you and your dog should not fed: Ever wondered whether you are feeding your dog the right foods? Her... http://bit.ly/k547NT'
+p142
+aS'Sink your teeth into dog bite prevention http://bit.ly/moqWcT'
+p143
+aS'Traditional Art: Renewable energy world http://t.co/TzTb7Lz'
+p144
+aS'Some tips about the Labrador dogs: The very popular Labrador search race many dog lovers. Before but this breed ... http://bit.ly/lj5Wr4'
+p145
+aS'At the end of the Beatles\' song "A Day in the Life", a high-pitched dog whistle was recorded by Paul McCartney for his sheepdog.'
+p146
+aS'Saw a random boy wearing a guy Harvey kappa shirt!! #proudmama'
 p147
-aS'"911 whats your emergency?" "i ODed on weed...and I think I\'m dead" lolololol'
+aS"This is what happens every time I have a meeting at Kate's Frosting... Yum! http://instagr.am/p/C7INn/"
 p148
+aS'The \x91Oz\x92 in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z, hence "Oz."'
+p149
+aS'Trimmed the hedges of my house for the first time ever. I may not have a future in landscaping but at least they  http://instagr.am/p/DIG_j/'
+p150
+aS'Remarks by the President, CIA Director Leon Panetta, and DNI Director James Clapper to the Intelligence Communit... http://bit.ly/kIRCYd'
+p151
+aS"It is impossible to sneeze and keep one's eyes open at the same time. (Try it!)"
+p152
+aS'we need some rain, our deserts are drying up ;o'
+p153
+aS"Beautiful day and I'm inside. Such a shame"
+p154
+aS'61    The U.S. has the highest dog population in the world. France has the second highest.'
+p155
+aS'A dog, named Laika, was the first in space in 1957.'
+p156
+aS'Dogs have about 100 different facial expressions, most of them made with the ears.'
+p157
+aS'So we meet again!'
+p158
+aS"Donald Duck comics were banned from Finland because he doesn't wear pants."
+p159
+aS'Dogs are responsible for most drug busts.'
+p160
+aS'Patience is the companion of wisdom - St. Augustine.'
+p161
+aS'In early Christian tradition, Saint Christopher, the patron saint of travelers, is sometimes depicted with a dog\xe2\x80\x99s head.'
+p162
+aS'All my neighbors are sitting outside for a smoke. I find this amusing.'
+p163
+aS"You know you're texting too much when your dog taps your hand with his paw to get you to stop and pay attention to him. :)"
+p164
+aS'My dog has a lazy eye lol'
+p165
+aS'That super clean feeling when you get out the shower #thebest'
+p166
+aS'The man who smiles when things go wrong has thought of someone to blame it on'
+p167
+aS"Monday's child is fair of face, Tuesday's child is full of grace. Wednesday's child is full of woe, Thursday's child has far to go."
+p168
+aS'The day you decide to do it, is your lucky day'
+p169
+aS'"Danger: Avoid death" and other wacky warning labels. Slide show. http://is.gd/kFagtP'
+p170
+aS'#nw kitchen nightmares'
+p171
+aS'The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.'
+p172
+aS'The Basenji is the only dog that cannot bark.'
+p173
+aS'Some people are merely alive because it is against the law to kill them'
+p174
+aS'There are an estimated 400 million dogs in the world.'
+p175
+aS'Studies show that petting a dog lowers blood pressure'
+p176
+aS'Where is my beach? I miss it! I need my swim to keep me fit and happy'
+p177
+aS'It costs approximately $10,000 to train a federally certified search and rescue dog.'
+p178
+aS'Every time Beethoven sat down to write music, he poured ice water over his head.'
+p179
+aS"Am I the only one that's glad that the ~hipster~ trend is dead now?"
+p180
+aS'Prettiest "bear" ever! http://picplz.com/rs0n'
+p181
+aS'The most popular male dog names are Max and Jake. The most popular female dog names are Maggie and Molly.'
+p182
+aS'Hypnotism is banned by public schools in San Diego.'
+p183
+aS'The best dog to reportedly attract a date is the Golden Retriever. The worst is the Pit Bull.'
+p184
+aS'Dogs and cats, like humans, are either right or left handed.'
+p185
+aS'so tired... and it will be another busy weekend. Longing for a weekend where I can actually relax! #tootiredtothink'
+p186
+aS'Plato once said that \xe2\x80\x9ca dog has the soul of a philosopher.\xe2\x80\x9d'
+p187
+aS'Dachshunds were bred to fight badgers in their dens.'
+p188
+aS'Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."'
+p189
+aS'Off to bed... long day tomorrow. Have a good one all! Sweet Dreams!'
+p190
+aS'Giraffes have no vocal cords.'
+p191
+aS'The Beagle and Collie are the nosiest dogs, while the Akbash Dog and the Basenji are the quietest.'
+p192
+aS"Goethe couldn't stand the sound of barking dogs and could only write if he had an apple rotting in the drawer of his desk."
+p193
+aS'"911 whats your emergency?" "i ODed on weed...and I think I\'m dead" lolololol'
+p194
+aS'\x93Luck is what happens when preparation meets opportunity.\x94'
+p195
+aS"Even tho I don't like figuring out watches I want a pretty one lol all white with crystals. For fashion. Ill look at my fone for the time"
+p196
+aS'It is physically impossible for pigs to look up into the sky'
+p197
+aS'Alexander the Great is said to have founded and named a city Peritas, in memory of his dog.'
+p198
+aS'Slowly but surely going back blonde :D'
+p199
+aS'Some scholars speculate that Dorothy\xe2\x80\x99s dog, Toto, may represent the Egyptian god of death, Anubis'
+p200
+aS'Alexander the Great was an epileptic.'
+p201
+aS'Supposedly the smartest dogs are the border collie, poodle and golden retriever. While the dumbest dog is the afghan.'
+p202
+aS'A full seven percent of the entire Irish barley crop goes to the production of Guinness beer.'
+p203
+aS"You're as weak as the hearts you break."
+p204
+aS'The average dog can run about 19 mph. Greyhounds are the fastest dogs on Earth and can run at speeds of 45 mph.'
+p205
+aS"Couldn't study in the union because of the very loud mexican fiesta music. Never been so happy to be interrupted :)"
+p206
+aS'A dog is the only thing on earth that loves you more than he loves himself.'
+p207
+aS'The characters Bert & Ernie on Sesame Street were named after Bert the cop & Ernie the taxi driver in Frank Capra\'s "Its A Wonderful Life"'
+p208
+aS"Little sister got her prom tonight! must admit im quite jealous.. doesn't seem long ago it was mine! :("
+p209
+aS'Redbud and a flowering plum in bloom at my house.  http://twitpic.com/506eu9'
+p210
+aS'Dogs in a pack are more likely to chase and hunt than a single dog on its own. Two dogs are enough to form a pack.'
+p211
+aS'A dog\xe2\x80\x99s shoulder blades are unattached to the rest of the skeleton to allow greater flexibility for running.'
+p212
+aS'Zzzzz'
+p213
+aS'Bingo is the name of the dog on the Cracker Jack box.'
+p214
+aS"There's fireworks. The flatulent dog is cowering under me. Awesome."
+p215
+aS'A dog can locate the source of a sound in 1/600 of a second and can hear sounds four times farther away than a human can.'
+p216
+aS"April Fools' Day is probably the worst day ever to have a heart attack"
+p217
+aS'"I am." is the shortest complete sentence in the English language.'
+p218
+aS'Finally getting the hang of twitter .. :D'
+p219
+aS"It's senior skip day or something like that."
+p220
+aS"Just saved my dog's life. Seriously. He had a stick wedged in the roof of his mouth. He's fine. I'm still shaken up."
+p221
+aS'Puppies are sometimes rejected by their mother if they are born by cesarean and cleaned up before being given back to her.'
+p222
+aS"Do people not know that Selena has saved almost 10 dogs from dying? She's one of the biggest animal lovers... http://tumblr.com/x7r2lzoq8e"
+p223
+aS'Dr. Seuss pronounced "Seuss" such that it rhymed with "rejoice."'
+p224
+aS"precious old man just talked to me in starbucks for an hour, told me all abt his songs & children's stories #whoknows? #couldbejesus"
+p225
+aS'Oh my some girls are wayyyy to desperate!'
+p226
+aS'A person should never kick a dog facing him or her. Some dogs can bite 10 times before a human can respond.'
+p227
+aS"Don't ask for advice if your not gonna use it!"
+p228
+aS'Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.'
+p229
+aS"The first product to have a bar code scanned was Wrigley's gum"
+p230
+aS'February 1865 is the only month in recorded history not to have a full moon.'
+p231
+aS'Dogs have three eyelids. The third lid, called a nictitating membrane or \xe2\x80\x9chaw,\xe2\x80\x9d keeps the eye lubricated and protected.'
+p232
+aS'Who let the dogs out???'
+p233
+aS'Had Thai for dinner. Full to my eyeballs.'
+p234
+aS'Food ( :'
+p235
+aS'In in the front yard cleaning my fountain and peeps honk a hi and wave.'
+p236
+aS"You know he's tired when he sleeps next to flip flops and cables! :) http://instagr.am/p/D-rVU/"
+p237
+aS'Human thigh bones are stronger than concrete.'
+p238
+aS'The ideal time to dog obedience start to correct training behavior problems: The time, to dog training must star... http://bit.ly/kUkar1'
+p239
+aS'OK. go!'
+p240
+aS'the school is so quiet!'
+p241
+aS'soo freaked out! keep hearing noise and my dog is whroofing at the door :| :|'
+p242
+aS"Things look 'a whole lot brighter in the morning' because of the sun"
+p243
+aS'Rain, rain. Go away..'
+p244
+aS'Human teeth are almost as hard as rocks.'
+p245
+aS'Emergency preparedness materials from the US CDC on Zombie preparedness. No kidding. http://is.gd/M4P1PK'
+p246
+aS'Having fun at the Cordillera Ranch Shindig!  http://instagr.am/p/Dutua/'
+p247
+aS'The average dog has 42 permanent teeth.'
+p248
+aS'5 people in first period...'
+p249
+aS'good things happen to those who wait.'
+p250
+aS'May is National Bike Month, go out and ride a couple miles'
+p251
+aS'listening to an instrumental track of "my heart will go on" #yeaitshappening'
+p252
+aS'A sneeze can travel as fast as 100 miles per hour'
+p253
+aS'Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.'
+p254
+aS'Fingernails grow nearly 4 times faster than toenails.'
+p255
+aS'There are 701 types of pure breed dogs. (Although this is a disputable by many.)'
+p256
+aS"What's the deal with Jerry Seinfeld? Did you ever notice he seems to start off all of his jokes in one of two ways?"
+p257
+aS'The first dog show in the US was in Detroit, Michigan in 1857.'
+p258
+aS"LA North Central shelter is overcrowded & countless dogs will be put down this weekend. Please adopt if you're able! http://on.fb.me/lpbLiY"
+p259
+aS'Awesome. Feral parakeets. http://is.gd/PeePZm'
+p260
+aS'The normal body temperature for a dog is 101.2 degrees F.'
+p261
 a.
