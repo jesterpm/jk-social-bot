@@ -221,7 +221,10 @@ if __name__ == '__main__':
         oursleep(5 * 60)
         
         # Pose a question
-        pose_question(question[question_count])
+        try:
+            pose_question(question[question_count])
+        except urllib2.HTTPError as e:
+            print '*** Twitter returned an error:\n***%s' % e
         question_count = (question_count + 1) % len(question);
 
         # Sleep for a bit to add some realism.
