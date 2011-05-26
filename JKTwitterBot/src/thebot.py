@@ -131,7 +131,13 @@ def oursleep(amt):
     else:
         time.sleep(amt)
             
-            
+def follow_more():
+    if len(friends) > 0:
+        for i in range(100):
+            if len(friends) > 0:
+                follow_user(friends.pop())
+
+
 #########################
 # Execution starts here #
 #########################
@@ -192,10 +198,6 @@ if __name__ == '__main__':
     # Prepare Eliza (code from the_shrink.py)
     doctor = eliza.eliza()
 
-    # adds all friends from friends.txt
-    for friend in friends: 
-        follow_user(friend)
-       
     while True:
         # We sleep between midnight at 6 am.
         hour = datetime.now().hour
@@ -203,6 +205,8 @@ if __name__ == '__main__':
             # Sleep until 6 am.
             oursleep((6 - hour) * 3600)
         
+        # Follow 100 more users
+        follow_more()
     
         # Reply to tweets directed to us
         reply_to_tweets()
