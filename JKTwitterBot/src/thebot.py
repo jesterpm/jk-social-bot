@@ -27,16 +27,17 @@ CONSUMER_SECRET='MEYTOS97VvlHX7K1rwHPEqVpTSqZ71HtvoK4sVuYk'
 # instead of tweeted.
 TEST_MODE = True
 
-DEFAULT_USERNAME = 'tcss435test'#'MoreJennifer' 
+DEFAULT_USERNAME = 'morejennifer' 
 DEFAULT_AUTH_FILENAME = '.twitter_oauth'
 DEFAULT_LASTID_FILENAME = '.twitter_lastid'
 Response_File = 'Response.txt'
 public_Status_update_File = 'Status_update.txt'
 questions_status_update_File = 'question_status.txt'
 make_Friends_File = 'friends.txt'
-count = 0 
+count = 33 
 response_count = 0 
-question_count = 0
+question_count = 32
+lastid = ''
 
 def status_update(outgoing_text):  
     if not TEST_MODE:
@@ -62,7 +63,8 @@ def follow_user(user):
         print '====> (TEST MODE) Following =', user 
      
 def reply_to_tweets():
-    lastid = ''
+    global lastid
+    global response_count
     results = reader.search(q=username, since_id=lastid)['results']
     for result in reversed(results):
         asker = result['from_user']
